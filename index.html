@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Morning Lift — Start Every Day Informed and Inspired</title>
+<meta name="description" content="A free daily audio briefing of uplifting news — delivered to your inbox every morning at 6am. Four positive stories across science, community, innovation, and culture.">
+<meta name="theme-color" content="#F5A623">
+
+<!-- Open Graph / Social sharing -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="The Morning Lift — Start Every Day Informed and Inspired">
+<meta property="og:description" content="A free 4-minute audio briefing of the day's most uplifting stories. Delivered every morning at 6am.">
+<meta property="og:url" content="https://themorninglift.com">
+<meta property="og:site_name" content="The Morning Lift">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Morning Lift — Start Every Day Informed and Inspired">
+<meta name="twitter:description" content="A free 4-minute audio briefing of the day's most uplifting stories. Delivered every morning at 6am.">
+
+<!-- Favicon (sun emoji as SVG data URI) -->
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀️</text></svg>">
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --amber: #F5A623;
+    --amber-light: #FBBF24;
+    --coral: #E17055;
+    --charcoal: #2D3436;
+    --cream: #FFF8F0;
+    --cream-dark: #FFF0DB;
+    --soft-shadow: 0 4px 30px rgba(245, 166, 35, 0.15);
+    --text-shadow: 0 1px 2px rgba(0,0,0,0.06);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--charcoal);
+    background: var(--cream);
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1.5rem 4rem;
+    position: relative;
+    background:
+      radial-gradient(ellipse 120% 60% at 50% 110%, rgba(245,166,35,0.25) 0%, transparent 70%),
+      radial-gradient(ellipse 80% 40% at 30% 100%, rgba(225,112,85,0.15) 0%, transparent 60%),
+      linear-gradient(180deg, #FFF8F0 0%, #FFF0DB 100%);
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+  }
+
+  .sun-icon {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 1.5rem;
+    animation: sunrise 1.2s ease-out both;
+  }
+
+  @keyframes sunrise {
+    from { opacity: 0; transform: translateY(20px) scale(0.8); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
+  }
+
+  .sun-icon svg {
+    width: 100%;
+    height: 100%;
+    filter: drop-shadow(0 2px 8px rgba(245,166,35,0.4));
+  }
+
+  .brand-name {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.8rem, 7vw, 4.5rem);
+    font-weight: 700;
+    line-height: 1.1;
+    text-align: center;
+    color: var(--charcoal);
+    margin-bottom: 0.5rem;
+    animation: fadeUp 0.8s ease-out 0.2s both;
+  }
+
+  .brand-name em {
+    color: var(--coral);
+    font-style: italic;
+  }
+
+  .tagline {
+    font-size: clamp(1.05rem, 2.5vw, 1.3rem);
+    font-weight: 300;
+    color: #636e72;
+    text-align: center;
+    margin-bottom: 2.5rem;
+    letter-spacing: 0.02em;
+    animation: fadeUp 0.8s ease-out 0.4s both;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .value-card {
+    background: white;
+    border-radius: 20px;
+    padding: 2.5rem 2rem;
+    max-width: 520px;
+    width: 100%;
+    box-shadow: var(--soft-shadow);
+    margin-bottom: 2.5rem;
+    animation: fadeUp 0.8s ease-out 0.5s both;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .value-card::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--amber), var(--coral), var(--amber));
+  }
+
+  .value-card h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 1.25rem;
+    color: var(--charcoal);
+  }
+
+  .feature-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.85rem;
+    margin-bottom: 1.1rem;
+  }
+
+  .feature-row:last-child { margin-bottom: 0; }
+
+  .feature-icon {
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    background: var(--cream);
+  }
+
+  .feature-text {
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: #4a4a4a;
+  }
+
+  .feature-text strong {
+    color: var(--charcoal);
+    font-weight: 600;
+  }
+
+  .signup-section {
+    max-width: 520px;
+    width: 100%;
+    text-align: center;
+    animation: fadeUp 0.8s ease-out 0.7s both;
+  }
+
+  .signup-section p {
+    font-size: 0.95rem;
+    color: #636e72;
+    margin-bottom: 1rem;
+  }
+
+  .beehiiv-form-wrapper {
+    margin-bottom: 0.5rem;
+  }
+
+  .beehiiv-form-wrapper iframe {
+    width: 100%;
+    border: none;
+    min-height: 80px;
+  }
+
+  .privacy-note {
+    font-size: 0.78rem;
+    color: #b2bec3;
+    margin-top: 0.75rem;
+  }
+
+  .how-section {
+    padding: 5rem 1.5rem;
+    background: white;
+    text-align: center;
+  }
+
+  .how-section h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(1.8rem, 4vw, 2.4rem);
+    margin-bottom: 0.6rem;
+    color: var(--charcoal);
+  }
+
+  .how-subtitle {
+    font-size: 1rem;
+    color: #636e72;
+    margin-bottom: 3rem;
+    font-weight: 300;
+  }
+
+  .steps {
+    display: flex;
+    gap: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .step {
+    flex: 1;
+    min-width: 200px;
+    max-width: 240px;
+    text-align: center;
+  }
+
+  .step-number {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: var(--cream);
+    border: 2px solid var(--amber);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--coral);
+    margin: 0 auto 1rem;
+  }
+
+  .step h3 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--charcoal);
+  }
+
+  .step p {
+    font-size: 0.88rem;
+    line-height: 1.55;
+    color: #636e72;
+  }
+
+  .premium-section {
+    padding: 5rem 1.5rem;
+    background:
+      radial-gradient(ellipse 100% 50% at 50% 0%, rgba(245,166,35,0.08) 0%, transparent 70%),
+      var(--cream);
+    text-align: center;
+  }
+
+  .premium-section h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(1.8rem, 4vw, 2.4rem);
+    margin-bottom: 0.5rem;
+    color: var(--charcoal);
+  }
+
+  .premium-section .how-subtitle {
+    margin-bottom: 2rem;
+  }
+
+  .pricing-cards {
+    display: flex;
+    gap: 1.25rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 600px;
+    margin: 0 auto 2rem;
+  }
+
+  .price-card {
+    background: white;
+    border-radius: 16px;
+    padding: 2rem 1.5rem;
+    flex: 1;
+    min-width: 220px;
+    max-width: 270px;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.05);
+    border: 2px solid #f0e6d9;
+    transition: border-color 0.3s, transform 0.3s;
+  }
+
+  .price-card.featured {
+    border-color: var(--amber);
+    position: relative;
+  }
+
+  .price-card.featured::before {
+    content: 'Best Value';
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(135deg, var(--amber), var(--coral));
+    color: white;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 0.3rem 1rem;
+    border-radius: 20px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .price-card:hover {
+    transform: translateY(-3px);
+  }
+
+  .price-label {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #636e72;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.5rem;
+  }
+
+  .price-amount {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--charcoal);
+  }
+
+  .price-amount span {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #636e72;
+  }
+
+  .price-detail {
+    font-size: 0.82rem;
+    color: #b2bec3;
+    margin-top: 0.25rem;
+  }
+
+  .premium-note {
+    font-size: 0.92rem;
+    color: #636e72;
+    max-width: 480px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  footer {
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+    background: var(--charcoal);
+    color: rgba(255,248,240,0.5);
+    font-size: 0.82rem;
+  }
+
+  footer .footer-brand {
+    font-family: 'Playfair Display', serif;
+    color: var(--cream);
+    font-size: 1.1rem;
+    margin-bottom: 0.3rem;
+  }
+
+  @media (max-width: 540px) {
+    .steps { gap: 2.5rem; }
+    .value-card { padding: 2rem 1.5rem; }
+  }
+
+</style>
+</head>
+<body>
+
+<section class="hero">
+
+  <div class="sun-icon">
+    <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="32" cy="32" r="14" fill="#F5A623" opacity="0.9"/>
+      <circle cx="32" cy="32" r="20" fill="#F5A623" opacity="0.15"/>
+      <g stroke="#F5A623" stroke-width="2.5" stroke-linecap="round" opacity="0.7">
+        <line x1="32" y1="2" x2="32" y2="9"/>
+        <line x1="32" y1="55" x2="32" y2="62"/>
+        <line x1="2" y1="32" x2="9" y2="32"/>
+        <line x1="55" y1="32" x2="62" y2="32"/>
+        <line x1="10.8" y1="10.8" x2="15.7" y2="15.7"/>
+        <line x1="48.3" y1="48.3" x2="53.2" y2="53.2"/>
+        <line x1="10.8" y1="53.2" x2="15.7" y2="48.3"/>
+        <line x1="48.3" y1="15.7" x2="53.2" y2="10.8"/>
+      </g>
+    </svg>
+  </div>
+
+  <h1 class="brand-name">The Morning <em>Lift</em></h1>
+  <p class="tagline">Start every day informed and inspired.</p>
+
+  <div class="value-card">
+    <h2>A 4-minute audio ritual for your morning</h2>
+
+    <div class="feature-row">
+      <div class="feature-icon">🎧</div>
+      <div class="feature-text">
+        <strong>Listen while you live.</strong> A short, curated audio briefing of the day's most uplifting stories — designed for your commute, your coffee, your morning routine.
+      </div>
+    </div>
+
+    <div class="feature-row">
+      <div class="feature-icon">☀️</div>
+      <div class="feature-text">
+        <strong>Not another news app.</strong> This is a daily ritual. Four positive stories across science, community, innovation, and culture — delivered with warmth, not hype.
+      </div>
+    </div>
+
+    <div class="feature-row">
+      <div class="feature-icon">📬</div>
+      <div class="feature-text">
+        <strong>It comes to you.</strong> Every morning, a push to your inbox. Hit play and start your day with something good. No doomscrolling required.
+      </div>
+    </div>
+  </div>
+
+  <div class="signup-section">
+    <p>Join the free daily briefing — delivered every morning at 6am.</p>
+
+    <div class="beehiiv-form-wrapper">
+      <iframe src="https://subscribe-forms.beehiiv.com/752699ef-87cd-4b1e-b512-4f4454a50ff0" class="beehiiv-embed" frameborder="0" scrolling="no" style="width: 100%; border: none; min-height: 80px;"></iframe>
+    </div>
+
+    <p class="privacy-note">Free forever. Unsubscribe anytime. We never share your email.</p>
+  </div>
+
+</section>
+
+<section class="how-section">
+  <h2>Your morning, reimagined</h2>
+  <p class="how-subtitle">The whole ritual takes less than 5 minutes</p>
+
+  <div class="steps">
+    <div class="step">
+      <div class="step-number">1</div>
+      <h3>Wake Up to Good</h3>
+      <p>A gentle notification hits your inbox each morning at 6am with today's briefing ready to play.</p>
+    </div>
+    <div class="step">
+      <div class="step-number">2</div>
+      <h3>Press Play</h3>
+      <p>Listen to four uplifting stories while you make coffee, get ready, or head out the door. No screen required.</p>
+    </div>
+    <div class="step">
+      <div class="step-number">3</div>
+      <h3>Carry It With You</h3>
+      <p>End with a reflection prompt that sets your intention for the day. Read deeper into any story that moved you.</p>
+    </div>
+  </div>
+</section>
+
+<section class="premium-section">
+  <h2>Go deeper when you're ready</h2>
+  <p class="how-subtitle">The daily audio is always free. Premium unlocks the full ritual.</p>
+
+  <div class="pricing-cards">
+    <div class="price-card">
+      <div class="price-label">Monthly</div>
+      <div class="price-amount">$1<span>/mo</span></div>
+      <p class="price-detail">Cancel anytime</p>
+    </div>
+    <div class="price-card featured">
+      <div class="price-label">Annual</div>
+      <div class="price-amount">$10<span>/yr</span></div>
+      <p class="price-detail">Save $2 — that's 83¢/month</p>
+    </div>
+  </div>
+
+  <p class="premium-note">
+    Premium includes guided morning journaling, daily reflection prompts, deeper story dives, a personalized reading feed matched to your interests, and streak tracking with weekly positivity insights.
+  </p>
+</section>
+
+<footer>
+  <div class="footer-brand">The Morning Lift</div>
+  <p>&copy; 2026 The Morning Lift. Built with optimism.</p>
+</footer>
+
+<script async src="https://subscribe-forms.beehiiv.com/embed.js"></script>
+<script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script>
+
+</body>
+</html>
