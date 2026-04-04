@@ -45,6 +45,7 @@
     -webkit-font-smoothing: antialiased;
   }
 
+  /* ── Sunrise gradient background ── */
   .hero {
     min-height: 100vh;
     display: flex;
@@ -67,6 +68,7 @@
     pointer-events: none;
   }
 
+  /* ── Sun icon ── */
   .sun-icon {
     width: 64px;
     height: 64px;
@@ -85,6 +87,7 @@
     filter: drop-shadow(0 2px 8px rgba(245,166,35,0.4));
   }
 
+  /* ── Typography ── */
   .brand-name {
     font-family: 'Playfair Display', serif;
     font-size: clamp(2.8rem, 7vw, 4.5rem);
@@ -116,6 +119,7 @@
     to { opacity: 1; transform: translateY(0); }
   }
 
+  /* ── Value proposition card ── */
   .value-card {
     background: white;
     border-radius: 20px;
@@ -177,6 +181,7 @@
     font-weight: 600;
   }
 
+  /* ── Signup form ── */
   .signup-section {
     max-width: 520px;
     width: 100%;
@@ -206,6 +211,7 @@
     margin-top: 0.75rem;
   }
 
+  /* ── How it works ── */
   .how-section {
     padding: 5rem 1.5rem;
     background: white;
@@ -271,6 +277,7 @@
     color: #636e72;
   }
 
+  /* ── Premium teaser ── */
   .premium-section {
     padding: 5rem 1.5rem;
     background:
@@ -372,6 +379,7 @@
     line-height: 1.6;
   }
 
+  /* ── Footer ── */
   footer {
     padding: 2.5rem 1.5rem;
     text-align: center;
@@ -387,15 +395,92 @@
     margin-bottom: 0.3rem;
   }
 
+  /* ── Success overlay ── */
+  .success-overlay {
+    display: none;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 520px;
+    background: white;
+    border-radius: 20px;
+    padding: 2.5rem 2rem;
+    box-shadow: 0 8px 40px rgba(245, 166, 35, 0.3), 0 2px 12px rgba(0,0,0,0.08);
+    text-align: center;
+    z-index: 100;
+    animation: overlayIn 0.4s ease-out both;
+    border: 2px solid var(--amber);
+  }
+
+  .success-overlay.visible {
+    display: block;
+  }
+
+  @keyframes overlayIn {
+    from { opacity: 0; transform: translateX(-50%) translateY(10px) scale(0.95); }
+    to { opacity: 1; transform: translateX(-50%) translateY(0) scale(1); }
+  }
+
+  .success-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    line-height: 1;
+  }
+
+  .success-overlay h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--charcoal);
+    margin-bottom: 0.75rem;
+  }
+
+  .success-overlay p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #4a4a4a;
+    margin-bottom: 0.5rem;
+  }
+
+  .success-overlay .success-detail {
+    font-size: 0.88rem;
+    color: #636e72;
+    margin-bottom: 1.5rem;
+  }
+
+  .success-dismiss {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--amber), var(--amber-light));
+    color: white;
+    border: none;
+    padding: 0.75rem 2rem;
+    border-radius: 12px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 12px rgba(245, 166, 35, 0.3);
+  }
+
+  .success-dismiss:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(245, 166, 35, 0.4);
+  }
+
+  /* ── Mobile tweaks ── */
   @media (max-width: 540px) {
     .steps { gap: 2.5rem; }
     .value-card { padding: 2rem 1.5rem; }
+    .success-overlay { padding: 2rem 1.5rem; margin-left: 1rem; margin-right: 1rem; width: calc(100% - 2rem); }
   }
 
 </style>
 </head>
 <body>
 
+<!-- ═══════ HERO ═══════ -->
 <section class="hero">
 
   <div class="sun-icon">
@@ -443,7 +528,7 @@
     </div>
   </div>
 
-  <div class="signup-section">
+  <div class="signup-section" style="position: relative;">
     <p>Join the free daily briefing — delivered every morning at 6am.</p>
 
     <div class="beehiiv-form-wrapper">
@@ -451,10 +536,20 @@
     </div>
 
     <p class="privacy-note">Free forever. Unsubscribe anytime. We never share your email.</p>
+
+    <!-- Success confirmation overlay -->
+    <div class="success-overlay" id="successOverlay">
+      <div class="success-icon">☀️</div>
+      <h3>You're in — welcome aboard.</h3>
+      <p>Your first Morning Lift arrives tomorrow at 6am.</p>
+      <p class="success-detail">Check your inbox for a welcome email. If it landed in Promotions or Spam, move it to your Primary inbox so you never miss a morning.</p>
+      <button class="success-dismiss" onclick="document.getElementById('successOverlay').classList.remove('visible')">Got it</button>
+    </div>
   </div>
 
 </section>
 
+<!-- ═══════ HOW IT WORKS ═══════ -->
 <section class="how-section">
   <h2>Your morning, reimagined</h2>
   <p class="how-subtitle">The whole ritual takes less than 5 minutes</p>
@@ -478,6 +573,7 @@
   </div>
 </section>
 
+<!-- ═══════ PREMIUM TEASER ═══════ -->
 <section class="premium-section">
   <h2>Go deeper when you're ready</h2>
   <p class="how-subtitle">The daily audio is always free. Premium unlocks the full ritual.</p>
@@ -500,6 +596,7 @@
   </p>
 </section>
 
+<!-- ═══════ FOOTER ═══════ -->
 <footer>
   <div class="footer-brand">The Morning Lift</div>
   <p>&copy; 2026 The Morning Lift. Built with optimism.</p>
@@ -507,6 +604,59 @@
 
 <script async src="https://subscribe-forms.beehiiv.com/embed.js"></script>
 <script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script>
+
+<script>
+// Listen for Beehiiv form submission success via postMessage
+window.addEventListener('message', function(event) {
+  // Beehiiv sends a message when the form is successfully submitted
+  if (event.origin && event.origin.includes('beehiiv.com')) {
+    var data = event.data;
+    // Check for subscription success - Beehiiv sends various message formats
+    if (data === 'success' ||
+        (typeof data === 'object' && data.type === 'subscribe-success') ||
+        (typeof data === 'string' && data.includes('success'))) {
+      showSuccessOverlay();
+    }
+  }
+});
+
+// Also watch for iframe height changes which indicate form submission
+(function() {
+  var iframe = document.querySelector('.beehiiv-embed');
+  if (!iframe) return;
+
+  var observer = new MutationObserver(function(mutations) {
+    mutations.forEach(function(mutation) {
+      if (mutation.type === 'attributes' && mutation.attributeName === 'style') {
+        // Beehiiv resizes the iframe after successful submission
+        var height = parseInt(iframe.style.height);
+        if (height > 0 && height < 60) {
+          // Form collapsed after submission — likely success
+          showSuccessOverlay();
+        }
+      }
+    });
+  });
+
+  observer.observe(iframe, { attributes: true, attributeFilter: ['style'] });
+})();
+
+function showSuccessOverlay() {
+  var overlay = document.getElementById('successOverlay');
+  if (overlay && !overlay.classList.contains('visible')) {
+    overlay.classList.add('visible');
+    // Hide the form wrapper to avoid confusion
+    var formWrapper = document.querySelector('.beehiiv-form-wrapper');
+    if (formWrapper) formWrapper.style.display = 'none';
+    // Hide the CTA text above the form
+    var signupP = document.querySelector('.signup-section > p:first-child');
+    if (signupP) signupP.style.display = 'none';
+    // Hide the privacy note
+    var privacyNote = document.querySelector('.privacy-note');
+    if (privacyNote) privacyNote.style.display = 'none';
+  }
+}
+</script>
 
 </body>
 </html>
