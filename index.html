@@ -145,6 +145,9 @@
     padding: 1.25rem 1rem;
     box-shadow: var(--soft-shadow);
     position: relative;
+    /* Beehiiv embed.js over-reports iframe height (~2000px) for this short form;
+       clamp the wrapper so the visual matches the form's actual content. */
+    max-height: 260px;
     overflow: hidden;
     margin-bottom: 1rem;
   }
