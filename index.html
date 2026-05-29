@@ -301,107 +301,7 @@
     color: #636e72;
   }
 
-  /* ── Premium teaser ── */
-  .premium-section {
-    padding: 5rem 1.5rem;
-    background:
-      radial-gradient(ellipse 100% 50% at 50% 0%, rgba(245,166,35,0.08) 0%, transparent 70%),
-      white;
-    text-align: center;
-  }
-
-  .premium-section h2 {
-    font-family: 'Playfair Display', serif;
-    font-size: clamp(1.8rem, 4vw, 2.4rem);
-    margin-bottom: 0.5rem;
-    color: var(--charcoal);
-  }
-
-  .premium-section .how-subtitle {
-    margin-bottom: 2rem;
-  }
-
-  .pricing-cards {
-    display: flex;
-    gap: 1.25rem;
-    justify-content: center;
-    flex-wrap: wrap;
-    max-width: 600px;
-    margin: 0 auto 2rem;
-  }
-
-  .price-card {
-    background: white;
-    border-radius: 16px;
-    padding: 2rem 1.5rem;
-    flex: 1;
-    min-width: 220px;
-    max-width: 270px;
-    box-shadow: 0 2px 20px rgba(0,0,0,0.05);
-    border: 2px solid #f0e6d9;
-    transition: border-color 0.3s, transform 0.3s;
-  }
-
-  .price-card.featured {
-    border-color: var(--amber);
-    position: relative;
-  }
-
-  .price-card.featured::before {
-    content: 'Best Value';
-    position: absolute;
-    top: -12px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: linear-gradient(135deg, var(--amber), var(--coral));
-    color: white;
-    font-size: 0.72rem;
-    font-weight: 600;
-    padding: 0.3rem 1rem;
-    border-radius: 20px;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-  }
-
-  .price-card:hover {
-    transform: translateY(-3px);
-  }
-
-  .price-label {
-    font-size: 0.85rem;
-    font-weight: 500;
-    color: #636e72;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    margin-bottom: 0.5rem;
-  }
-
-  .price-amount {
-    font-family: 'Playfair Display', serif;
-    font-size: 2.5rem;
-    font-weight: 700;
-    color: var(--charcoal);
-  }
-
-  .price-amount span {
-    font-size: 1rem;
-    font-weight: 400;
-    color: #636e72;
-  }
-
-  .price-detail {
-    font-size: 0.82rem;
-    color: #b2bec3;
-    margin-top: 0.25rem;
-  }
-
-  .premium-note {
-    font-size: 0.92rem;
-    color: #636e72;
-    max-width: 480px;
-    margin: 0 auto;
-    line-height: 1.6;
-  }
+  /* ── Premium teaser — PARKED 2026-05-29. Section + CSS removed; Stripe + Beehiiv stay connected. Re-enable via git revert. ── */
 
   /* ── Footer ── */
   footer {
@@ -528,7 +428,7 @@
 
   <h1 class="brand-name">The Morning <em>Lift</em></h1>
 
-  <p class="hero-headline">Wake up to four stories of human kindness.</p>
+  <p class="hero-headline">Wake up to four positive stories.</p>
   <p class="hero-subhead">Every morning, in your inbox. Free.</p>
 
   <div class="signup-section">
@@ -603,28 +503,11 @@
   </div>
 </section>
 
-<!-- ═══════ PREMIUM TEASER ═══════ -->
-<section class="premium-section">
-  <h2>Go deeper when you're ready</h2>
-  <p class="how-subtitle">The daily audio is always free. Premium unlocks the full ritual.</p>
-
-  <div class="pricing-cards">
-    <div class="price-card">
-      <div class="price-label">Monthly</div>
-      <div class="price-amount">$1<span>/mo</span></div>
-      <p class="price-detail">Cancel anytime</p>
-    </div>
-    <div class="price-card featured">
-      <div class="price-label">Annual</div>
-      <div class="price-amount">$10<span>/yr</span></div>
-      <p class="price-detail">Save $2 — that's 83¢/month</p>
-    </div>
-  </div>
-
-  <p class="premium-note">
-    Premium includes guided morning journaling, daily reflection prompts, deeper story dives, a personalized reading feed matched to your interests, and streak tracking with weekly positivity insights.
-  </p>
-</section>
+<!-- ═══════ PREMIUM TEASER — PARKED 2026-05-29 ═══════
+     Section removed from the live page. Stripe + Beehiiv premium plan stay
+     connected; existing premium subscribers keep their access; restore this
+     block (and the matching CSS above) to re-enable the upgrade ask.
+═══════════════════════════════════════════════════════ -->
 
 <!-- ═══════ FOOTER ═══════ -->
 <footer>
