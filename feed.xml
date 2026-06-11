@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Morning Lift</title>
+    <link>https://themorninglift.org</link>
+    <language>en-us</language>
+    <description>Four positive stories in four minutes. Free audio, waiting for you when you wake up. Every morning, The Morning Lift brings you four uplifting, true stories — science, progress, kindness, and quiet wonder — to start your day on the right note.</description>
+    <itunes:summary>Four positive stories in four minutes. Free audio, waiting for you when you wake up. Every morning, The Morning Lift brings you four uplifting, true stories — science, progress, kindness, and quiet wonder — to start your day on the right note.</itunes:summary>
+    <itunes:author>The Morning Lift</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:image href="https://themorninglift.org/podcast-cover.jpg"/>
+    <image><url>https://themorninglift.org/podcast-cover.jpg</url><title>The Morning Lift</title><link>https://themorninglift.org</link></image>
+    <itunes:owner>
+      <itunes:name>Thomas Kristensen</itunes:name>
+      <itunes:email>contact.kristensen@gmail.com</itunes:email>
+    </itunes:owner>
+    <lastBuildDate>Thu, 11 Jun 2026 13:49:37 +0000</lastBuildDate>
+    <!--NEW_ITEM--> <!-- daily publish script prepends new <item> blocks immediately after this marker -->
+    <item>
+      <title>The Morning Lift — Thursday, June 11, 2026</title>
+      <description>Four positive stories to start your morning: (1) Sudan &amp; South Sudan eliminate maternal &amp; neonatal tetanus; (2) Wheelchair half-marathon records in Chicago (Romanchuk &amp; McFadden); (3) EXCAP home-exercise program reduces "chemo brain"; (4) 40-million-year-old ant revealed in Goethe's amber via synchrotron CT.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Sudan &amp; South Sudan eliminate maternal &amp; neonatal tetanus; (2) Wheelchair half-marathon records in Chicago (Romanchuk &amp; McFadden); (3) EXCAP home-exercise program reduces "chemo brain"; (4) 40-million-year-old ant revealed in Goethe's amber via synchrotron CT.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-11.mp3" length="4613476" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-11.mp3</guid>
+      <pubDate>Thu, 11 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Wednesday, June 10, 2026</title>
+      <description>Four positive stories to start your morning: (1) Science / Materials — Cobalt's hidden topological states; (2) Environment / Conservation; (3) Sports / Soccer; (4) Innovation / Clean Transport — China's electric heavy trucks tip.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Science / Materials — Cobalt's hidden topological states; (2) Environment / Conservation; (3) Sports / Soccer; (4) Innovation / Clean Transport — China's electric heavy trucks tip.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-10.mp3" length="5094966" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-10.mp3</guid>
+      <pubDate>Wed, 10 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Tuesday, June 9, 2026</title>
+      <description>Four positive stories to start your morning: (1) AI-designed universal coronavirus vaccine clears first human trial; (2) Low-temperature hydrogen catalyst cuts cost; (3) "House Made of Dawn" — largest Native American art survey at the New-York Historical; (4) Three Stanley Cup Final records in one game.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) AI-designed universal coronavirus vaccine clears first human trial; (2) Low-temperature hydrogen catalyst cuts cost; (3) "House Made of Dawn" — largest Native American art survey at the New-York Historical; (4) Three Stanley Cup Final records in one game.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-09.mp3" length="4571263" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-09.mp3</guid>
+      <pubDate>Tue, 09 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Monday, June 8, 2026</title>
+      <description>Four positive stories to start your morning: (1) Ocean protection crosses 10%; (2) Europe's largest 3D-printed affordable apartment building; (3) LEGO Foundation pledges $97M to the IRC for kids in conflict zones; (4) Two molecules repaired nerve damage in MS models.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Ocean protection crosses 10%; (2) Europe's largest 3D-printed affordable apartment building; (3) LEGO Foundation pledges $97M to the IRC for kids in conflict zones; (4) Two molecules repaired nerve damage in MS models.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-08.mp3" length="4666976" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-08.mp3</guid>
+      <pubDate>Mon, 08 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Sunday, June 7, 2026</title>
+      <description>Four positive stories to start your morning: (1) Octopuses use mirrors to find food they can't see; (2) Europe sets a new dam-removal record; (3) Roman bridge found in the Aare riverbed; (4) Mirra Andreeva wins the French Open.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Octopuses use mirrors to find food they can't see; (2) Europe sets a new dam-removal record; (3) Roman bridge found in the Aare riverbed; (4) Mirra Andreeva wins the French Open.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-07.mp3" length="4743880" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-07.mp3</guid>
+      <pubDate>Sun, 07 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Saturday, June 6, 2026</title>
+      <description>Four positive stories to start your morning: (1) Culture/Arts — "Another Wonderland": rescued WPA Alice murals open at MCNY; (2) Community/Food Access — MLK Center opens North End satellite food pantry, Newport RI; (3) Health/Ophthalmology; (4) Innovation/Photonics.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Culture/Arts — "Another Wonderland": rescued WPA Alice murals open at MCNY; (2) Community/Food Access — MLK Center opens North End satellite food pantry, Newport RI; (3) Health/Ophthalmology; (4) Innovation/Photonics.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-06.mp3" length="5072814" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-06.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Friday, June 5, 2026</title>
+      <description>Four positive stories to start your morning: (1) First evidence of magnetic fields on exoplanets; (2) 5,500-year-old high-altitude copper-working cave, Pyrenees; (3) Goya's San Antonio de la Florida frescoes restored, Madrid; (4) Amivantamab shrinks advanced head &amp; neck cancer (OrigAMI-4).</description>
+      <itunes:summary>Four positive stories to start your morning: (1) First evidence of magnetic fields on exoplanets; (2) 5,500-year-old high-altitude copper-working cave, Pyrenees; (3) Goya's San Antonio de la Florida frescoes restored, Madrid; (4) Amivantamab shrinks advanced head &amp; neck cancer (OrigAMI-4).</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-05.mp3" length="4989640" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-05.mp3</guid>
+      <pubDate>Fri, 05 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Thursday, June 4, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-04.mp3" length="4845026" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-04.mp3</guid>
+      <pubDate>Thu, 04 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Wednesday, June 3, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-03.mp3" length="5103325" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-03.mp3</guid>
+      <pubDate>Wed, 03 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Tuesday, June 2, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-02.mp3" length="4809081" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-02.mp3</guid>
+      <pubDate>Tue, 02 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Monday, June 1, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-01.mp3" length="5193186" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-01.mp3</guid>
+      <pubDate>Mon, 01 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Sunday, May 31, 2026</title>
+      <description>Four positive stories to start your morning: (1) Saturn's rotation puzzle solved by JWST (Science/Planetary); (2) Anacostia Community Museum opens "We Make History" with the Plummer family diary at its center (Community/Heritage); (3) Platypuses breeding again in Australia's Hacking River after 50+ year absence (Environment/Conservation); (4) England's first Dutch-style "fietsstraat" cycle street opens in Cambridge (Innovation/Urban).</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Saturn's rotation puzzle solved by JWST (Science/Planetary); (2) Anacostia Community Museum opens "We Make History" with the Plummer family diary at its center (Community/Heritage); (3) Platypuses breeding again in Australia's Hacking River after 50+ year absence (Environment/Conservation); (4) England's first Dutch-style "fietsstraat" cycle street opens in Cambridge (Innovation/Urban).</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-05-31.mp3" length="4919840" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-31.mp3</guid>
+      <pubDate>Sun, 31 May 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Saturday, May 30, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-05-30.mp3" length="5185245" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-30.mp3</guid>
+      <pubDate>Sat, 30 May 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Morning Lift — Friday, May 29, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-05-29.mp3" length="5208651" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-29.mp3</guid>
+      <pubDate>Fri, 29 May 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
