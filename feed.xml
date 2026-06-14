@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 13 Jun 2026 19:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 18:01:39 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, June 15, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-15.mp3" length="4763106" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-15.mp3</guid>
+      <pubDate>Mon, 15 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, June 14, 2026</title>
       <description>Four positive stories to start your morning: (1) LEAD; (2) Tribeca Festival's record-breaking 25th edition closes; (3) Stanford blocks a "gerozyme" and regrows knee cartilage; (4) 30-year study: ~90–120 min/week of strength training is the high-value zone.</description>
