@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 16 Jun 2026 07:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:12:42 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, June 17, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-17.mp3" length="4880553" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-17.mp3</guid>
+      <pubDate>Wed, 17 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, June 16, 2026</title>
       <description>Four positive stories to start your morning: (1) Children's reading-for-pleasure rises for the first time since 2021; (2) JUNO neutrino observatory publishes its first physics result; (3) Global mangrove forests rebound — net decline reversing; (4) Angkor Thom's 800-year-old water system uncovered — and slated for restoration.</description>
