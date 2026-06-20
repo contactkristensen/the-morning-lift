@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 19 Jun 2026 07:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 07:09:55 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, June 20, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-06-20.mp3" length="4928618" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-20.mp3</guid>
+      <pubDate>Sat, 20 Jun 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, June 19, 2026</title>
       <description>Four positive stories to start your morning: (1) A real weakness found in PFAS "forever chemicals"; (2) A fixable cause of fading cellular energy; (3) A durable middle path for knee osteoarthritis; (4) Housing built over a food pantry and a bus.</description>
