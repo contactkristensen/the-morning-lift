@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Listen to The Morning Lift — Free Every Morning</title>
+<meta name="description" content="Follow The Morning Lift wherever you listen — four short, good stories every morning, about four minutes. Free on Apple Podcasts and Spotify.">
+<meta name="theme-color" content="#F5A623">
+
+<!-- Open Graph / Social sharing -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Listen to The Morning Lift — Free Every Morning">
+<meta property="og:description" content="Four short, good stories every morning, about four minutes. Follow free on Apple Podcasts or Spotify.">
+<meta property="og:url" content="https://themorninglift.org/listen">
+<meta property="og:site_name" content="The Morning Lift">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Favicon (sun emoji as SVG data URI) -->
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀️</text></svg>">
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --amber: #F5A623;
+    --amber-light: #FBBF24;
+    --coral: #E17055;
+    --charcoal: #2D3436;
+    --cream: #FFF8F0;
+    --cream-dark: #FFF0DB;
+    --soft-shadow: 0 4px 30px rgba(245, 166, 35, 0.15);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--charcoal);
+    background: var(--cream);
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+  }
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1.5rem 4rem;
+    position: relative;
+    background:
+      radial-gradient(ellipse 120% 60% at 50% 110%, rgba(245,166,35,0.25) 0%, transparent 70%),
+      radial-gradient(ellipse 80% 40% at 30% 100%, rgba(225,112,85,0.15) 0%, transparent 60%),
+      linear-gradient(180deg, #FFF8F0 0%, #FFF0DB 100%);
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+  }
+  .sun-icon { width: 64px; height: 64px; margin-bottom: 1.5rem; animation: sunrise 1.2s ease-out both; }
+  @keyframes sunrise { from { opacity: 0; transform: translateY(20px) scale(0.8); } to { opacity: 1; transform: translateY(0) scale(1); } }
+  .sun-icon svg { width: 100%; height: 100%; filter: drop-shadow(0 2px 8px rgba(245,166,35,0.4)); }
+  .brand-name {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.4rem, 6vw, 3.6rem);
+    font-weight: 700; line-height: 1.1; text-align: center;
+    color: var(--charcoal); margin-bottom: 0.5rem;
+    animation: fadeUp 0.8s ease-out 0.2s both;
+  }
+  .brand-name em { color: var(--coral); font-style: italic; }
+  .tagline {
+    font-size: clamp(1.05rem, 2.5vw, 1.3rem); font-weight: 300;
+    color: #636e72; text-align: center; margin-bottom: 2.5rem;
+    letter-spacing: 0.02em; max-width: 30rem;
+    animation: fadeUp 0.8s ease-out 0.4s both;
+  }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+  .listen-card {
+    background: white; border-radius: 20px; padding: 2.5rem 2rem;
+    max-width: 460px; width: 100%; box-shadow: var(--soft-shadow);
+    position: relative; overflow: hidden;
+    animation: fadeUp 0.8s ease-out 0.5s both;
+  }
+  .listen-card::after {
+    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px;
+    background: linear-gradient(90deg, var(--amber), var(--coral), var(--amber));
+  }
+  .listen-card h2 {
+    font-family: 'Playfair Display', serif; font-size: 1.3rem; font-weight: 600;
+    margin-bottom: 0.5rem; color: var(--charcoal); text-align: center;
+  }
+  .listen-card .sub { font-size: 0.95rem; color: #636e72; text-align: center; margin-bottom: 1.75rem; line-height: 1.5; }
+  .listen-btn {
+    display: flex; align-items: center; justify-content: center; gap: 0.7rem;
+    width: 100%; padding: 1rem 1.25rem; margin-bottom: 0.9rem;
+    border-radius: 14px; text-decoration: none; font-weight: 600; font-size: 1.02rem;
+    transition: transform 0.18s, box-shadow 0.18s, filter 0.18s;
+  }
+  .listen-btn:last-child { margin-bottom: 0; }
+  .listen-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(0,0,0,0.16); }
+  .listen-btn svg { width: 22px; height: 22px; flex-shrink: 0; }
+  .btn-apple { background: #2D2D2D; color: #fff; }
+  .btn-spotify { background: #1DB954; color: #fff; }
+  .listen-foot { font-size: 0.82rem; color: #b2bec3; text-align: center; margin-top: 1.5rem; }
+  .listen-foot a { color: var(--coral); text-decoration: none; font-weight: 500; }
+  footer { padding: 2rem 1.5rem; text-align: center; color: #b2bec3; font-size: 0.8rem; }
+  footer .footer-brand { font-family: 'Playfair Display', serif; color: var(--charcoal); font-size: 1rem; margin-bottom: 0.2rem; }
+</style>
+</head>
+<body>
+<section class="hero">
+  <div class="sun-icon">
+    <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="32" cy="32" r="14" fill="#F5A623" opacity="0.9"/>
+      <circle cx="32" cy="32" r="20" fill="#F5A623" opacity="0.15"/>
+      <g stroke="#F5A623" stroke-width="2.5" stroke-linecap="round" opacity="0.7">
+        <line x1="32" y1="2" x2="32" y2="9"/><line x1="32" y1="55" x2="32" y2="62"/>
+        <line x1="2" y1="32" x2="9" y2="32"/><line x1="55" y1="32" x2="62" y2="32"/>
+        <line x1="10.8" y1="10.8" x2="15.7" y2="15.7"/><line x1="48.3" y1="48.3" x2="53.2" y2="53.2"/>
+        <line x1="10.8" y1="53.2" x2="15.7" y2="48.3"/><line x1="48.3" y1="15.7" x2="53.2" y2="10.8"/>
+      </g>
+    </svg>
+  </div>
+
+  <h1 class="brand-name">The Morning <em>Lift</em></h1>
+  <p class="tagline">Four Stories, Four Minutes - waiting when you wake up.  Free.</p>
+
+  <div class="listen-card">
+    <h2>Listen free, every morning</h2>
+    <p class="sub">Follow us on Apple and Spotify.</p>
+
+    <a class="listen-btn btn-apple" href="https://podcasts.apple.com/us/podcast/the-morning-lift/id1896913135" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-1.6 19.87c.15.03.2-.07.2-.15v-1.2c-2.4.45-3-.96-3.18-1.4-.1-.26-.55-1.07-.94-1.28-.32-.17-.78-.6-.01-.61.72-.01 1.23.66 1.4.94.82 1.38 2.13.99 2.65.76.08-.6.32-.99.58-1.22-2.03-.23-4.16-1.02-4.16-4.51 0-1 .36-1.82.94-2.46-.1-.23-.41-1.16.09-2.42 0 0 .77-.24 2.5.94a8.7 8.7 0 0 1 2.28-.31c.77 0 1.55.1 2.28.31 1.74-1.18 2.5-.94 2.5-.94.5 1.26.19 2.19.1 2.42.58.64.93 1.45.93 2.46 0 3.5-2.13 4.28-4.17 4.5.33.29.62.84.62 1.7v2.52c0 .08.05.18.21.15A10 10 0 0 0 12 2Z"/></svg>
+      Apple Podcasts
+    </a>
+
+    <a class="listen-btn btn-spotify" href="https://open.spotify.com/show/033wyO3XQMew5gfYv8mNFY" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24Zm5.5 17.32a.75.75 0 0 1-1.03.25c-2.82-1.72-6.37-2.11-10.55-1.16a.75.75 0 1 1-.33-1.46c4.57-1.04 8.5-.59 11.66 1.34.35.22.46.68.25 1.03Zm1.47-3.27a.94.94 0 0 1-1.29.31c-3.23-1.99-8.16-2.56-11.98-1.4a.94.94 0 1 1-.55-1.8c4.37-1.33 9.8-.69 13.51 1.6.44.27.58.85.31 1.29Zm.13-3.4C15.3 8.27 8.78 8.05 5.07 9.18a1.12 1.12 0 1 1-.65-2.15c4.26-1.29 11.46-1.04 15.98 1.64a1.12 1.12 0 1 1-1.16 1.92l.01.06Z"/></svg>
+      Spotify
+    </a>
+
+    <p class="listen-foot">Prefer email? <a href="https://themorninglift.org/?utm_source=listen-page&utm_medium=web&utm_campaign=podcast-follow">Get audio and transcript &rarr;</a></p>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-brand">The Morning Lift</div>
+  <p>&copy; 2026 The Morning Lift. Built with optimism.</p>
+</footer>
+</body>
+</html>
