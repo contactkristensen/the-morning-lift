@@ -147,5 +147,40 @@
   <div class="footer-brand">The Morning Lift</div>
   <p>&copy; 2026 The Morning Lift. Built with optimism.</p>
 </footer>
+
+<!-- ============================================================= -->
+<!-- Analytics: GoatCounter (privacy-light, no cookies / no banner) -->
+<!-- Records page views automatically (incl. the inbound ?utm_* query string  -->
+<!-- so taps are attributable to the originating post), plus three custom      -->
+<!-- outbound-click events when a visitor follows out to Apple / Spotify / email.-->
+<!-- Site: themorninglift.goatcounter.com                                       -->
+<!-- ============================================================= -->
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    // Append the originating campaign/content so a click ties back to its source post.
+    function srcTag() {
+      var p = new URLSearchParams(location.search);
+      var camp = p.get('utm_campaign') || '';
+      var cont = p.get('utm_content') || '';
+      return (camp || cont) ? ('|' + camp + '|' + cont) : '';
+    }
+    function track(selector, eventName, title) {
+      var el = document.querySelector(selector);
+      if (!el) return;
+      el.addEventListener('click', function () {
+        if (window.goatcounter && typeof window.goatcounter.count === 'function') {
+          window.goatcounter.count({ path: eventName + srcTag(), title: title, event: true });
+        }
+      });
+    }
+    // Buttons open in a new tab (target=_blank), so the page is NOT unloaded —
+    // the async count() beacon completes normally before/while the new tab opens.
+    track('.btn-apple',      'follow-apple',   'Listen → Apple Podcasts');
+    track('.btn-spotify',    'follow-spotify', 'Listen → Spotify');
+    track('.listen-foot a',  'follow-email',   'Listen → Email');
+  });
+</script>
+<script data-goatcounter="https://themorninglift.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
