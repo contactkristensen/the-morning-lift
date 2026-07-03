@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 02 Jul 2026 07:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 07:10:20 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Friday, July 3, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-03.mp3" length="4885150" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-03.mp3</guid>
+      <pubDate>Fri, 03 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Thursday, July 2, 2026</title>
       <description>Four positive stories to start your morning: (1) A hidden museum opens beneath the Lincoln Memorial; (2) The Ocean Cleanup scales river Interceptors in the Philippines; (3) UK new electric cars outsell new petrol cars for the first time; (4) A stem-cell-inspired method grows immune cells at scale.</description>
