@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 04 Jul 2026 10:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:34:30 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, July 5, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-05.mp3" length="5309379" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-05.mp3</guid>
+      <pubDate>Sun, 05 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, July 4, 2026</title>
       <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
