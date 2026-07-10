@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 09 Jul 2026 07:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:09:49 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Friday, July 10, 2026</title>
+      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
+      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-10.mp3" length="4734684" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-10.mp3</guid>
+      <pubDate>Fri, 10 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Thursday, July 9, 2026</title>
       <description>Four positive stories to start your morning: (1) Kelsey Pfendler — first American woman to row solo from California to Hawaii; (2) Dolly Parton musical sets Broadway opening — on her 81st birthday; (3) Montana Bar Fairies — gift cards instead of tickets for people who didn't drive drunk; (4) New walking shark species confirmed off Papua New Guinea.</description>
