@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 10 Jul 2026 11:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:10:10 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, July 11, 2026</title>
+      <description>Four positive stories to start your morning: (1) Europe's air is measurably cleaner than a decade ago; (2) 800 million people have gained electricity access since 2010; (3) Britain's Cerne Abbas Giant is being re-chalked; (4) 80+ volunteers restored eight Scranton seniors' homes in a day.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Europe's air is measurably cleaner than a decade ago; (2) 800 million people have gained electricity access since 2010; (3) Britain's Cerne Abbas Giant is being re-chalked; (4) 80+ volunteers restored eight Scranton seniors' homes in a day.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-11.mp3" length="4249852" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-11.mp3</guid>
+      <pubDate>Sat, 11 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, July 10, 2026</title>
       <description>Four positive stories to start your morning: (1) A silicon chip that writes DNA in water; (2) The ocean has been braking global drought for over a century; (3) AI predicted two new superconductors before they were made; (4) A British wildcard into his first Wimbledon semifinal.</description>
