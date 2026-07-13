@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 12 Jul 2026 07:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 07:09:46 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, July 13, 2026</title>
+      <description>Four positive stories to start your morning: (1) A frog-gut bacterium cleared colorectal tumors in every mouse it was tested on; (2) An onion farmer's son becomes the fourth Indian ever to medal at a Diamond League; (3) Euclid finds the most ancient quasars ever seen, deepening the early-black-hole puzzle; (4) A jacket that pulls drinking water straight from the air.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A frog-gut bacterium cleared colorectal tumors in every mouse it was tested on; (2) An onion farmer's son becomes the fourth Indian ever to medal at a Diamond League; (3) Euclid finds the most ancient quasars ever seen, deepening the early-black-hole puzzle; (4) A jacket that pulls drinking water straight from the air.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-13.mp3" length="4587563" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-13.mp3</guid>
+      <pubDate>Mon, 13 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, July 12, 2026</title>
       <description>Four positive stories to start your morning: (1) A rebuilt MRI antenna makes existing scanners see sharper; (2) Cincinnati community overshoots its goal to build a 14-home veterans village; (3) Matt Olson plays his 741st straight game to become the Braves' Iron Man; (4) A 1611 Brueghel painting recorded a bat behavior science confirmed only in 2025.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-18.mp3</guid>
       <pubDate>Sat, 18 Apr 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, April 17, 2026</title>
-      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
-      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-17.mp3" length="3347788" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-17.mp3</guid>
-      <pubDate>Fri, 17 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
