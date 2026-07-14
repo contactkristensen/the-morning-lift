@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 13 Jul 2026 07:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:09:38 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, July 14, 2026</title>
+      <description>Four positive stories to start your morning: (1) A daily pill nearly doubles survival in metastatic pancreatic cancer; (2) Poland's national grid gets its first-ever offshore wind electricity; (3) Three untouched 13th-century shipwrecks surface in Menorca's "Cove of Mysteries"; (4) Kenya's Wanyonyi breaks a 27-year-old 1000m world record — in his first race at the distance — Sports/Athletics.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A daily pill nearly doubles survival in metastatic pancreatic cancer; (2) Poland's national grid gets its first-ever offshore wind electricity; (3) Three untouched 13th-century shipwrecks surface in Menorca's "Cove of Mysteries"; (4) Kenya's Wanyonyi breaks a 27-year-old 1000m world record — in his first race at the distance — Sports/Athletics.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-14.mp3" length="3940145" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-14.mp3</guid>
+      <pubDate>Tue, 14 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, July 13, 2026</title>
       <description>Four positive stories to start your morning: (1) A frog-gut bacterium cleared colorectal tumors in every mouse it was tested on; (2) An onion farmer's son becomes the fourth Indian ever to medal at a Diamond League; (3) Euclid finds the most ancient quasars ever seen, deepening the early-black-hole puzzle; (4) A jacket that pulls drinking water straight from the air.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-19.mp3</guid>
       <pubDate>Sun, 19 Apr 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, April 18, 2026</title>
-      <description>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-18.mp3" length="4085486" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-18.mp3</guid>
-      <pubDate>Sat, 18 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
