@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 19 Jul 2026 20:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:09:58 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, July 20, 2026</title>
+      <description>Four positive stories to start your morning: (1) A therapist and a stroke patient walk as one through linked robotic legs; (2) A new blood test detects womb cancer with 99% accuracy — sparing invasive exams — Health/MedTech; (3) River otters return to once-toxic city waters as a living clean-water scorecard; (4) Reno neighbors turn a dirt lot into a park with a $5,000 grant.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A therapist and a stroke patient walk as one through linked robotic legs; (2) A new blood test detects womb cancer with 99% accuracy — sparing invasive exams — Health/MedTech; (3) River otters return to once-toxic city waters as a living clean-water scorecard; (4) Reno neighbors turn a dirt lot into a park with a $5,000 grant.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-20.mp3" length="3940563" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-20.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, July 19, 2026</title>
       <description>Four positive stories to start your morning: (1) The malaria-vaccine inventor wins Europe's top invention prize; (2) Sea turtles are having a record-smashing nesting summer; (3) Egypt uncovers a "lost" Byzantine city in the Dakhla Oasis; (4) New material makes heat "programmable".</description>
@@ -905,86 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-25.mp3</guid>
       <pubDate>Sat, 25 Apr 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, April 24, 2026</title>
-      <description>Four positive stories to start your morning: (1) MacKenzie Scott donates $70M to Meals on Wheels America; (2) Moringa seeds remove up to 98% of microplastics from drinking water; (3) Blue-and-yellow macaws return to Rio de Janeiro after 200 years; (4) NFTE 2026 World Series of Innovation winners.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) MacKenzie Scott donates $70M to Meals on Wheels America; (2) Moringa seeds remove up to 98% of microplastics from drinking water; (3) Blue-and-yellow macaws return to Rio de Janeiro after 200 years; (4) NFTE 2026 World Series of Innovation winners.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-24.mp3" length="4633539" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-24.mp3</guid>
-      <pubDate>Fri, 24 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, April 23, 2026</title>
-      <description>Four positive stories to start your morning: (1) Goldman Environmental Prize — all-female cohort, first time in the prize's history; (2) Bradford mosque's men's Pilates class goes viral — over 2 million views; (3) Extra virgin olive oil linked to better cognition through the gut microbiome — first human prospective study; (4) Nancy Grace Roman Space Telescope unveiled — nearing launch.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Goldman Environmental Prize — all-female cohort, first time in the prize's history; (2) Bradford mosque's men's Pilates class goes viral — over 2 million views; (3) Extra virgin olive oil linked to better cognition through the gut microbiome — first human prospective study; (4) Nancy Grace Roman Space Telescope unveiled — nearing launch.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-23.mp3" length="2228224" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-23.mp3</guid>
-      <pubDate>Thu, 23 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, April 22, 2026</title>
-      <description>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-22.mp3" length="4070022" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-22.mp3</guid>
-      <pubDate>Wed, 22 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, April 21, 2026</title>
-      <description>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-21.mp3" length="4434173" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-21.mp3</guid>
-      <pubDate>Tue, 21 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Monday, April 20, 2026</title>
-      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
-      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-20.mp3" length="4559870" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-20.mp3</guid>
-      <pubDate>Mon, 20 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, April 19, 2026</title>
-      <description>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-19.mp3" length="3160542" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-19.mp3</guid>
-      <pubDate>Sun, 19 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, April 18, 2026</title>
-      <description>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-18.mp3" length="4085486" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-18.mp3</guid>
-      <pubDate>Sat, 18 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, April 17, 2026</title>
-      <description>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</description>
-      <itunes:summary>Four positive stories to start your morning — science, progress, kindness, and wonder. Free audio, about five minutes.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-17.mp3" length="3347788" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-17.mp3</guid>
-      <pubDate>Fri, 17 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
