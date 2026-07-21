@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 20 Jul 2026 07:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:10:25 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, July 21, 2026</title>
+      <description>Four positive stories to start your morning: (1) Scientists name a tenth "walking" shark off Papua New Guinea; (2) 800 million people have gained electricity access since 2010; (3) A lonely 4-year-old's daily wave knit his whole street into a family; (4) Glow-worms return to South Downs National Park.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Scientists name a tenth "walking" shark off Papua New Guinea; (2) 800 million people have gained electricity access since 2010; (3) A lonely 4-year-old's daily wave knit his whole street into a family; (4) Glow-worms return to South Downs National Park.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-21.mp3" length="3985702" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-21.mp3</guid>
+      <pubDate>Tue, 21 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, July 20, 2026</title>
       <description>Four positive stories to start your morning: (1) A therapist and a stroke patient walk as one through linked robotic legs; (2) A new blood test detects womb cancer with 99% accuracy — sparing invasive exams — Health/MedTech; (3) River otters return to once-toxic city waters as a living clean-water scorecard; (4) Reno neighbors turn a dirt lot into a park with a $5,000 grant.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-26.mp3</guid>
       <pubDate>Sun, 26 Apr 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, April 25, 2026</title>
-      <description>Four positive stories to start your morning: (1) From janitor to doctor at Yale — Shay Taylor-Allen's residency match; (2) Daraxonrasib — a "generational" breakthrough for pancreatic cancer; (3) 110+ new species from the Coral Sea — CSIRO deep-water expedition; (4) Global solar crosses 1,000 GW — the clean-energy turning point, in numbers.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) From janitor to doctor at Yale — Shay Taylor-Allen's residency match; (2) Daraxonrasib — a "generational" breakthrough for pancreatic cancer; (3) 110+ new species from the Coral Sea — CSIRO deep-water expedition; (4) Global solar crosses 1,000 GW — the clean-energy turning point, in numbers.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-25.mp3" length="4186322" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-25.mp3</guid>
-      <pubDate>Sat, 25 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
