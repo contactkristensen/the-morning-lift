@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 22 Jul 2026 07:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:36:26 +0000</lastBuildDate>
+    <item>
+      <title>Mid Week Lift — Wednesday, July 22, 2026</title>
+      <description>A midweek bonus from The Morning Lift: “AI tool confirms 118 new exoplanets hidden in NASA's TESS data” — one of our most-loved stories, re-read for you. Originally from our May 23 episode. Hear a new lift every morning at themorninglift.org.</description>
+      <itunes:summary>A midweek bonus from The Morning Lift: “AI tool confirms 118 new exoplanets hidden in NASA's TESS data” — one of our most-loved stories, re-read for you. Originally from our May 23 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-07-22.mp3" length="1749621" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-07-22.mp3</guid>
+      <pubDate>Wed, 22 Jul 2026 11:30:00 -0500</pubDate>
+      <itunes:duration>01:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Wednesday, July 22, 2026</title>
       <description>Four positive stories to start your morning: (1) El Salvador eliminates trachoma, the world's leading infectious cause of blindness; (2) Homegrown catnip lotion matches DEET as a mosquito repellent in rural Uganda; (3) Spain's 'firefighting donkeys' have kept Doñana National Park fire-free for nine years; (4) Scans show Egyptian princesses buried 4,000 years ago were skilled archers.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-28.mp3</guid>
       <pubDate>Tue, 28 Apr 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Monday, April 27, 2026</title>
-      <description>Four positive stories to start your morning: (1) Kākāpō record-breaking breeding season — 100+ chicks hatched in New Zealand; (2) Kruunuvuorensilta — Finland's longest bridge, car-free, opens to pedestrians and cyclists; (3) UK new electric cars cheaper than petrol for the first time — Autotrader data; (4) Sonselasuchus cedrus — ancient crocodile relative that switched to two legs as it grew.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Kākāpō record-breaking breeding season — 100+ chicks hatched in New Zealand; (2) Kruunuvuorensilta — Finland's longest bridge, car-free, opens to pedestrians and cyclists; (3) UK new electric cars cheaper than petrol for the first time — Autotrader data; (4) Sonselasuchus cedrus — ancient crocodile relative that switched to two legs as it grew.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-27.mp3" length="3777140" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-27.mp3</guid>
-      <pubDate>Mon, 27 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
