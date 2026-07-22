@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 21 Jul 2026 07:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:10:22 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, July 22, 2026</title>
+      <description>Four positive stories to start your morning: (1) El Salvador eliminates trachoma, the world's leading infectious cause of blindness; (2) Homegrown catnip lotion matches DEET as a mosquito repellent in rural Uganda; (3) Spain's 'firefighting donkeys' have kept Doñana National Park fire-free for nine years; (4) Scans show Egyptian princesses buried 4,000 years ago were skilled archers.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) El Salvador eliminates trachoma, the world's leading infectious cause of blindness; (2) Homegrown catnip lotion matches DEET as a mosquito repellent in rural Uganda; (3) Spain's 'firefighting donkeys' have kept Doñana National Park fire-free for nine years; (4) Scans show Egyptian princesses buried 4,000 years ago were skilled archers.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-22.mp3" length="5364131" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-22.mp3</guid>
+      <pubDate>Wed, 22 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, July 21, 2026</title>
       <description>Four positive stories to start your morning: (1) Scientists name a tenth "walking" shark off Papua New Guinea; (2) 800 million people have gained electricity access since 2010; (3) A lonely 4-year-old's daily wave knit his whole street into a family; (4) Glow-worms return to South Downs National Park.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-27.mp3</guid>
       <pubDate>Mon, 27 Apr 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, April 26, 2026</title>
-      <description>Four positive stories to start your morning: (1) Kate Fletcher runs 107 miles from Louisa County High to Jamestown on her 10th Lion Pride Run; (2) Algeria eliminates trachoma as a public health problem — WHO validation; (3) V&amp;A East Museum opens in Stratford, London — free permanent galleries, "The Music Is Black: A British Story" first exhibition; (4) Floreana giant tortoises reintroduced to Galápagos island after more than 150 years.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Kate Fletcher runs 107 miles from Louisa County High to Jamestown on her 10th Lion Pride Run; (2) Algeria eliminates trachoma as a public health problem — WHO validation; (3) V&amp;A East Museum opens in Stratford, London — free permanent galleries, "The Music Is Black: A British Story" first exhibition; (4) Floreana giant tortoises reintroduced to Galápagos island after more than 150 years.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-26.mp3" length="3894169" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-26.mp3</guid>
-      <pubDate>Sun, 26 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
