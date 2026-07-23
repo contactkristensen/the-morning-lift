@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 22 Jul 2026 16:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:09:44 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Thursday, July 23, 2026</title>
+      <description>Four positive stories to start your morning: (1) A biotech startup bred a blight-tolerant American chestnut without genetic engineering; (2) Norway is blasting the world's longest undersea road tunnel; (3) A UK trial restricting teen social media improved sleep, mood and concentration across every group; (4) Tom McKievick finished 50 years at one job without ever using a sick day.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A biotech startup bred a blight-tolerant American chestnut without genetic engineering; (2) Norway is blasting the world's longest undersea road tunnel; (3) A UK trial restricting teen social media improved sleep, mood and concentration across every group; (4) Tom McKievick finished 50 years at one job without ever using a sick day.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-23.mp3" length="5183573" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-23.mp3</guid>
+      <pubDate>Thu, 23 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mid Week Lift — Wednesday, July 22, 2026</title>
       <description>A midweek bonus from The Morning Lift: “AI tool confirms 118 new exoplanets hidden in NASA's TESS data” — one of our most-loved stories, re-read for you. Originally from our May 23 episode. Hear a new lift every morning at themorninglift.org.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-29.mp3</guid>
       <pubDate>Wed, 29 Apr 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, April 28, 2026</title>
-      <description>Four positive stories to start your morning: (1) 6,500 volunteers build 10,000 beds in 24 hours for kids who don't have one — Charlotte, NC; (2) NASA's Curiosity rover finds the strongest chemical signature yet of an ancient Martian lake; (3) A 1,300-year-old maize god sculpture, found by surprise during a backyard dig in Tlaxcala; (4) The largest clean-energy project in U.S. history starts sending power — SunZia.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) 6,500 volunteers build 10,000 beds in 24 hours for kids who don't have one — Charlotte, NC; (2) NASA's Curiosity rover finds the strongest chemical signature yet of an ancient Martian lake; (3) A 1,300-year-old maize god sculpture, found by surprise during a backyard dig in Tlaxcala; (4) The largest clean-energy project in U.S. history starts sending power — SunZia.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-28.mp3" length="3542665" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-28.mp3</guid>
-      <pubDate>Tue, 28 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
