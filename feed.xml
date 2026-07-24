@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 23 Jul 2026 07:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 07:09:53 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Friday, July 24, 2026</title>
+      <description>Four positive stories to start your morning: (1) A laptop solved a problem said to need a quantum computer; (2) India's rooftop solar more than doubled in the first half of 2026; (3) UK to turn public libraries into free recording studios; (4) Vermont micro-grants pay neighbors to throw block parties.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A laptop solved a problem said to need a quantum computer; (2) India's rooftop solar more than doubled in the first half of 2026; (3) UK to turn public libraries into free recording studios; (4) Vermont micro-grants pay neighbors to throw block parties.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-24.mp3" length="4945754" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-24.mp3</guid>
+      <pubDate>Fri, 24 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Thursday, July 23, 2026</title>
       <description>Four positive stories to start your morning: (1) A biotech startup bred a blight-tolerant American chestnut without genetic engineering; (2) Norway is blasting the world's longest undersea road tunnel; (3) A UK trial restricting teen social media improved sleep, mood and concentration across every group; (4) Tom McKievick finished 50 years at one job without ever using a sick day.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-30.mp3</guid>
       <pubDate>Thu, 30 Apr 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:39</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, April 29, 2026</title>
-      <description>Four positive stories to start your morning: (1) London Marathon: First sub-2-hour official marathon (Sports); (2) Lusatian Lakeland: Final coal-mine-turned-lake opens (Environment); (3) Iliad found inside Roman-era mummy at Oxyrhynchus (Culture/Archaeology); (4) Rock climbing as therapy for Parkinson's disease (Health/Innovation).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) London Marathon: First sub-2-hour official marathon (Sports); (2) Lusatian Lakeland: Final coal-mine-turned-lake opens (Environment); (3) Iliad found inside Roman-era mummy at Oxyrhynchus (Culture/Archaeology); (4) Rock climbing as therapy for Parkinson's disease (Health/Innovation).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-29.mp3" length="4951188" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-29.mp3</guid>
-      <pubDate>Wed, 29 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
