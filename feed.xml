@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 24 Jul 2026 07:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:10:05 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, July 25, 2026</title>
+      <description>Four positive stories to start your morning: (1) A defeated antibiotic kills again once a molecule strips the bacteria's defenses; (2) Mexico is climbing out of a six-year drought as a record-wet season refills its reservoirs; (3) Josh Kerr calls his shot and breaks a mile world record that stood for 27 years; (4) A 14-year-old on a bike stops to rescue a woman with dementia in 103-degree heat.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A defeated antibiotic kills again once a molecule strips the bacteria's defenses; (2) Mexico is climbing out of a six-year drought as a record-wet season refills its reservoirs; (3) Josh Kerr calls his shot and breaks a mile world record that stood for 27 years; (4) A 14-year-old on a bike stops to rescue a woman with dementia in 103-degree heat.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-25.mp3" length="4649003" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-25.mp3</guid>
+      <pubDate>Sat, 25 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, July 24, 2026</title>
       <description>Four positive stories to start your morning: (1) A laptop solved a problem said to need a quantum computer; (2) India's rooftop solar more than doubled in the first half of 2026; (3) UK to turn public libraries into free recording studios; (4) Vermont micro-grants pay neighbors to throw block parties.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-01.mp3</guid>
       <pubDate>Fri, 01 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, April 30, 2026</title>
-      <description>Four positive stories to start your morning: (1) Book Fairies + ThriftBooks deliver 25,000 books to NYC kids (Community); (2) Camera-trap photos turn up an unexpected refuge for endangered Asian tapirs in Thailand (Environment); (3) 132-million-year-old dinosaur tracks discovered on South Africa's coast — youngest ever in southern Africa (Culture / Discovery); (4) A 30-year, 100,000-person study finds variety in exercise — not just amount — extends life (Science/Health).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Book Fairies + ThriftBooks deliver 25,000 books to NYC kids (Community); (2) Camera-trap photos turn up an unexpected refuge for endangered Asian tapirs in Thailand (Environment); (3) 132-million-year-old dinosaur tracks discovered on South Africa's coast — youngest ever in southern Africa (Culture / Discovery); (4) A 30-year, 100,000-person study finds variety in exercise — not just amount — extends life (Science/Health).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-04-30.mp3" length="3507974" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-04-30.mp3</guid>
-      <pubDate>Thu, 30 Apr 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
