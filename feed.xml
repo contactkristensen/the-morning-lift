@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 25 Jul 2026 07:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 07:10:11 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, July 26, 2026</title>
+      <description>Four positive stories to start your morning: (1) Glasgow saves the Commonwealth Games by making them smaller; (2) A photonic chip that slows light on demand, replacing racks of fixed hardware; (3) Global mangrove forests are no longer in net decline; (4) Scientists revive vancomycin against a resistant superbug.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Glasgow saves the Commonwealth Games by making them smaller; (2) A photonic chip that slows light on demand, replacing racks of fixed hardware; (3) Global mangrove forests are no longer in net decline; (4) Scientists revive vancomycin against a resistant superbug.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-26.mp3" length="4951187" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-26.mp3</guid>
+      <pubDate>Sun, 26 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, July 25, 2026</title>
       <description>Four positive stories to start your morning: (1) A defeated antibiotic kills again once a molecule strips the bacteria's defenses; (2) Mexico is climbing out of a six-year drought as a record-wet season refills its reservoirs; (3) Josh Kerr calls his shot and breaks a mile world record that stood for 27 years; (4) A 14-year-old on a bike stops to rescue a woman with dementia in 103-degree heat.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-02.mp3</guid>
       <pubDate>Sat, 02 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, May 1, 2026</title>
-      <description>Four positive stories to start your morning: (1) The Paiter Surui Lead Conservation Lessons in the Amazon — WWF feature; (2) The "Call a Boomer" Payphone — Boston-to-Reno Line for Generational Loneliness; (3) Hamburg Undergrads Build a Cavity Detector and Set New Limits on Dark Matter; (4) A 100-Year-Old Problem in Organ Preservation Just Got Smaller.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) The Paiter Surui Lead Conservation Lessons in the Amazon — WWF feature; (2) The "Call a Boomer" Payphone — Boston-to-Reno Line for Generational Loneliness; (3) Hamburg Undergrads Build a Cavity Detector and Set New Limits on Dark Matter; (4) A 100-Year-Old Problem in Organ Preservation Just Got Smaller.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-01.mp3" length="4509405" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-01.mp3</guid>
-      <pubDate>Fri, 01 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
