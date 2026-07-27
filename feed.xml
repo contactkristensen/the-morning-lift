@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 26 Jul 2026 07:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 07:10:18 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, July 27, 2026</title>
+      <description>Four positive stories to start your morning: (1) Lisbon's Gulbenkian Museum reopens after a top-to-bottom renovation; (2) Researchers solve why lithium dendrites crack solid-state batteries; (3) Kansas City nonprofit converts a shuttered motel into 45 transitional homes; (4) All 56 patients in a fully-implanted cochlear implant trial pass the three-month milestone.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Lisbon's Gulbenkian Museum reopens after a top-to-bottom renovation; (2) Researchers solve why lithium dendrites crack solid-state batteries; (3) Kansas City nonprofit converts a shuttered motel into 45 transitional homes; (4) All 56 patients in a fully-implanted cochlear implant trial pass the three-month milestone.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-27.mp3" length="4797379" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-27.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, July 26, 2026</title>
       <description>Four positive stories to start your morning: (1) Glasgow saves the Commonwealth Games by making them smaller; (2) A photonic chip that slows light on demand, replacing racks of fixed hardware; (3) Global mangrove forests are no longer in net decline; (4) Scientists revive vancomycin against a resistant superbug.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-03.mp3</guid>
       <pubDate>Sun, 03 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, May 2, 2026</title>
-      <description>Four positive stories to start your morning: (1) Six-year-old Saffie Sandford has her sight restored by NHS gene therapy (Health/Medicine); (2) World-first footage: a Sumatran orangutan crosses a canopy bridge in Indonesia (Environment/Conservation); (3) A 23-year-old Polish streamer raises over $68 million for kids with cancer in nine days (Community/Generosity); (4) DESI completes the largest, sharpest 3D map of the universe ever made (Science/Space).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Six-year-old Saffie Sandford has her sight restored by NHS gene therapy (Health/Medicine); (2) World-first footage: a Sumatran orangutan crosses a canopy bridge in Indonesia (Environment/Conservation); (3) A 23-year-old Polish streamer raises over $68 million for kids with cancer in nine days (Community/Generosity); (4) DESI completes the largest, sharpest 3D map of the universe ever made (Science/Space).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-02.mp3" length="3551442" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-02.mp3</guid>
-      <pubDate>Sat, 02 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
