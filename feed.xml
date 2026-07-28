@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 27 Jul 2026 07:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:29:45 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, July 28, 2026</title>
+      <description>Four positive stories to start your morning: (1) Eighteen sealed tombs opened at Egypt's Marina El Alamein; (2) A pill that prevents COVID after exposure wins approval; (3) WNBA All-Star Game draws its largest-ever crowd; (4) AI uncovers a "natural Ozempic" the body already makes.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Eighteen sealed tombs opened at Egypt's Marina El Alamein; (2) A pill that prevents COVID after exposure wins approval; (3) WNBA All-Star Game draws its largest-ever crowd; (4) AI uncovers a "natural Ozempic" the body already makes.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-28.mp3" length="5278032" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-28.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, July 27, 2026</title>
       <description>Four positive stories to start your morning: (1) Lisbon's Gulbenkian Museum reopens after a top-to-bottom renovation; (2) Researchers solve why lithium dendrites crack solid-state batteries; (3) Kansas City nonprofit converts a shuttered motel into 45 transitional homes; (4) All 56 patients in a fully-implanted cochlear implant trial pass the three-month milestone.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-04.mp3</guid>
       <pubDate>Mon, 04 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, May 3, 2026</title>
-      <description>Four positive stories to start your morning: (1) Sir Henry Raeburn's lost portrait of Robert Burns rediscovered after 200+ years (Culture/Arts); (2) Vaccine cyclists deliver HPV vaccines to remote villages in rural Zimbabwe (Community/Health); (3) McLaren Racing + Great Barrier Reef Foundation unveil "Machine One" — coral seeding goes industrial (Environment/Innovation); (4) CATL launches the world's first mass-production sodium-ion EV (Innovation/Energy).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Sir Henry Raeburn's lost portrait of Robert Burns rediscovered after 200+ years (Culture/Arts); (2) Vaccine cyclists deliver HPV vaccines to remote villages in rural Zimbabwe (Community/Health); (3) McLaren Racing + Great Barrier Reef Foundation unveil "Machine One" — coral seeding goes industrial (Environment/Innovation); (4) CATL launches the world's first mass-production sodium-ion EV (Innovation/Energy).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-03.mp3" length="4027497" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-03.mp3</guid>
-      <pubDate>Sun, 03 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
