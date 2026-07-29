@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 28 Jul 2026 11:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 07:10:16 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, July 29, 2026</title>
+      <description>Four positive stories to start your morning: (1) Amazon deforestation falls to a 10-year low in the first half of 2026; (2) Tetanus-diphtheria vaccine clears first human trial in a fridge-free form; (3) Jingdezhen porcelain sites named a UNESCO World Heritage site; (4) FDA approves gedatolisib, a first-in-class drug for advanced breast cancer.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Amazon deforestation falls to a 10-year low in the first half of 2026; (2) Tetanus-diphtheria vaccine clears first human trial in a fridge-free form; (3) Jingdezhen porcelain sites named a UNESCO World Heritage site; (4) FDA approves gedatolisib, a first-in-class drug for advanced breast cancer.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-29.mp3" length="4377330" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-29.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, July 28, 2026</title>
       <description>Four positive stories to start your morning: (1) Eighteen sealed tombs opened at Egypt's Marina El Alamein; (2) A pill that prevents COVID after exposure wins approval; (3) WNBA All-Star Game draws its largest-ever crowd; (4) AI uncovers a "natural Ozempic" the body already makes.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-05.mp3</guid>
       <pubDate>Tue, 05 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Monday, May 4, 2026</title>
-      <description>Four positive stories to start your morning: (1) Detroit Pistons erase a 24-point deficit to force Game 7 against Orlando (Sports); (2) Over 100 ancient game boards carved into the ruins of Ptolemais (Culture/Arts/Archaeology); (3) FDA approves Otarmeni — first gene therapy for a form of inherited deafness, provided free of charge in the U.S. (Innovation/Health); (4) Ancient Maya communities traded live dogs across hundreds of miles, fed them human-quality food (Culture/Science).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Detroit Pistons erase a 24-point deficit to force Game 7 against Orlando (Sports); (2) Over 100 ancient game boards carved into the ruins of Ptolemais (Culture/Arts/Archaeology); (3) FDA approves Otarmeni — first gene therapy for a form of inherited deafness, provided free of charge in the U.S. (Innovation/Health); (4) Ancient Maya communities traded live dogs across hundreds of miles, fed them human-quality food (Culture/Science).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-04.mp3" length="3749973" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-04.mp3</guid>
-      <pubDate>Mon, 04 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
