@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 30 Jul 2026 07:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:16:58 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Friday, July 31, 2026</title>
+      <description>Four positive stories to start your morning: (1) FDA approves the first cholesterol pill as powerful as the injections; (2) Sharmila Dhankar wins India's first-ever Commonwealth para-athletics gold at 40; (3) Physicists build an "electron lighthouse" — steering current through a chip with light, no electric field — Science/Physics; (4) Santa Monica's unsheltered homelessness falls 18.7% in a year.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) FDA approves the first cholesterol pill as powerful as the injections; (2) Sharmila Dhankar wins India's first-ever Commonwealth para-athletics gold at 40; (3) Physicists build an "electron lighthouse" — steering current through a chip with light, no electric field — Science/Physics; (4) Santa Monica's unsheltered homelessness falls 18.7% in a year.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-07-31.mp3" length="4875955" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-31.mp3</guid>
+      <pubDate>Fri, 31 Jul 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Thursday, July 30, 2026</title>
       <description>Four positive stories to start your morning: (1) Hollywood's Cinerama Dome will be restored and reopened after going dark in 2020; (2) Sharmila Dhankar wins India's first-ever Commonwealth Games gold in para athletics; (3) A wild Houston toad is confirmed for the first time in over 50 years after a reintroduction effort; (4) NASA details a dual-lander docking rehearsal for Artemis III, its dress rehearsal for returning to the Moon.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-07.mp3</guid>
       <pubDate>Thu, 07 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, May 6, 2026</title>
-      <description>Four positive stories to start your morning: (1) Cherie DeVaux becomes first female trainer to win the Kentucky Derby; (2) JAMA study links 988 crisis-line launch to ~11% drop in young-adult suicide deaths; (3) Malawian innovator wins ICT Award for AI eye-control system for motor disabilities; (4) Yangtze River fish biomass doubles after sweeping 2021 fishing ban.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Cherie DeVaux becomes first female trainer to win the Kentucky Derby; (2) JAMA study links 988 crisis-line launch to ~11% drop in young-adult suicide deaths; (3) Malawian innovator wins ICT Award for AI eye-control system for motor disabilities; (4) Yangtze River fish biomass doubles after sweeping 2021 fishing ban.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-06.mp3" length="3529709" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-06.mp3</guid>
-      <pubDate>Wed, 06 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
