@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 31 Jul 2026 11:16:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:10:26 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, August 1, 2026</title>
+      <description>Four positive stories to start your morning: (1) Greece win the Water Polo World Cup, their first-ever global title; (2) WHO reports global road deaths fell 21% since 2011 despite a billion more vehicles; (3) A brush-on liquid stops toddler cavities without the drill; (4) First atmosphere confirmed on a rocky planet in a star's habitable zone.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Greece win the Water Polo World Cup, their first-ever global title; (2) WHO reports global road deaths fell 21% since 2011 despite a billion more vehicles; (3) A brush-on liquid stops toddler cavities without the drill; (4) First atmosphere confirmed on a rocky planet in a star's habitable zone.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-01.mp3" length="4309202" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-01.mp3</guid>
+      <pubDate>Sat, 01 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, July 31, 2026</title>
       <description>Four positive stories to start your morning: (1) FDA approves the first cholesterol pill as powerful as the injections; (2) Sharmila Dhankar wins India's first-ever Commonwealth para-athletics gold at 40; (3) Physicists build an "electron lighthouse" — steering current through a chip with light, no electric field — Science/Physics; (4) Santa Monica's unsheltered homelessness falls 18.7% in a year.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-08.mp3</guid>
       <pubDate>Fri, 08 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, May 7, 2026</title>
-      <description>Four positive stories to start your morning: (1) Madhusmita Jena sets Guinness World Record for fastest marathon in a saree; (2) Girls' high school flag football grows 60% in one year, 17 states sanction; (3) Social prescribing rises during Mental Health Awareness Month; (4) Boosting Sox9 protein wakes brain's astrocytes to clear Alzheimer's plaques.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Madhusmita Jena sets Guinness World Record for fastest marathon in a saree; (2) Girls' high school flag football grows 60% in one year, 17 states sanction; (3) Social prescribing rises during Mental Health Awareness Month; (4) Boosting Sox9 protein wakes brain's astrocytes to clear Alzheimer's plaques.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-07.mp3" length="3454476" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-07.mp3</guid>
-      <pubDate>Thu, 07 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
