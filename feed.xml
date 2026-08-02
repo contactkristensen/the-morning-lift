@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 01 Aug 2026 07:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:10:18 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, August 2, 2026</title>
+      <description>Four positive stories to start your morning: (1) Anna Moesch swims the fastest 100 free in American history; (2) A forgotten Yale fossil turns out to be a new Triassic predator; (3) Galápagos giant daisies are caught evolving new species live; (4) The Ghent Altarpiece sheds five centuries of overpaint.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Anna Moesch swims the fastest 100 free in American history; (2) A forgotten Yale fossil turns out to be a new Triassic predator; (3) Galápagos giant daisies are caught evolving new species live; (4) The Ghent Altarpiece sheds five centuries of overpaint.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-02.mp3" length="4932379" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-02.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, August 1, 2026</title>
       <description>Four positive stories to start your morning: (1) Greece win the Water Polo World Cup, their first-ever global title; (2) WHO reports global road deaths fell 21% since 2011 despite a billion more vehicles; (3) A brush-on liquid stops toddler cavities without the drill; (4) First atmosphere confirmed on a rocky planet in a star's habitable zone.</description>
@@ -904,16 +914,6 @@
       <enclosure url="https://themorninglift.org/TML_2026-05-09.mp3" length="3622495" type="audio/mpeg"/>
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-09.mp3</guid>
       <pubDate>Sat, 09 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, May 8, 2026</title>
-      <description>Four positive stories to start your morning: (1) Mexico's jaguar population grew about 30% in fourteen years (Environment / Conservation); (2) Pre-surgery pembrolizumab keeps a colorectal-cancer subset cancer-free (Science / Health); (3) Center for Black Excellence and Culture opens in Madison, WI (Culture / Community); (4) Jude Baker, 14, redirected his wish-grant to feed hundreds of people experiencing homelessness (Community / Human Interest).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Mexico's jaguar population grew about 30% in fourteen years (Environment / Conservation); (2) Pre-surgery pembrolizumab keeps a colorectal-cancer subset cancer-free (Science / Health); (3) Center for Black Excellence and Culture opens in Madison, WI (Culture / Community); (4) Jude Baker, 14, redirected his wish-grant to feed hundreds of people experiencing homelessness (Community / Human Interest).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-08.mp3" length="3622913" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-08.mp3</guid>
-      <pubDate>Fri, 08 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
