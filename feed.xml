@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 02 Aug 2026 07:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 07:10:27 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, August 3, 2026</title>
+      <description>Four positive stories to start your morning: (1) California ran more than half of May on solar, a world first; (2) New cobalt-aluminum metal is up to 10 times stronger than steel and still bends; (3) Lindon Victor wins a record third straight Commonwealth decathlon gold; (4) FDA approves centanafadine, first new-class ADHD drug in decades.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) California ran more than half of May on solar, a world first; (2) New cobalt-aluminum metal is up to 10 times stronger than steel and still bends; (3) Lindon Victor wins a record third straight Commonwealth decathlon gold; (4) FDA approves centanafadine, first new-class ADHD drug in decades.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-03.mp3" length="4435426" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-03.mp3</guid>
+      <pubDate>Mon, 03 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, August 2, 2026</title>
       <description>Four positive stories to start your morning: (1) Anna Moesch swims the fastest 100 free in American history; (2) A forgotten Yale fossil turns out to be a new Triassic predator; (3) Galápagos giant daisies are caught evolving new species live; (4) The Ghent Altarpiece sheds five centuries of overpaint.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-10.mp3</guid>
       <pubDate>Sun, 10 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, May 9, 2026</title>
-      <description>Four positive stories to start your morning: (1) Bar Harbor third-graders raise money for a friendship bench; (2) Challenged Athletes Foundation 2026 grants — $7M to 4,033 athletes; (3) Libraro prize — six unpublished novels chosen by readers, not gatekeepers; (4) Sweden — more reliable insulin-producing cells from stem cells.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Bar Harbor third-graders raise money for a friendship bench; (2) Challenged Athletes Foundation 2026 grants — $7M to 4,033 athletes; (3) Libraro prize — six unpublished novels chosen by readers, not gatekeepers; (4) Sweden — more reliable insulin-producing cells from stem cells.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-09.mp3" length="3622495" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-09.mp3</guid>
-      <pubDate>Sat, 09 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
