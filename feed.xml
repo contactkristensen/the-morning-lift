@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 03 Aug 2026 07:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:10:24 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, August 4, 2026</title>
+      <description>Four positive stories to start your morning: (1) Laser scans reveal a lost Amazon civilization of up to three million people; (2) Australia's citizen 'Bug Hunt' passes one million observations and catches invasions early; (3) The American oystercatcher climbs back while other shorebirds fall; (4) Oakland opens a free library that lends sports gear so no kid is priced out.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Laser scans reveal a lost Amazon civilization of up to three million people; (2) Australia's citizen 'Bug Hunt' passes one million observations and catches invasions early; (3) The American oystercatcher climbs back while other shorebirds fall; (4) Oakland opens a free library that lends sports gear so no kid is priced out.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-04.mp3" length="4709607" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-04.mp3</guid>
+      <pubDate>Tue, 04 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, August 3, 2026</title>
       <description>Four positive stories to start your morning: (1) California ran more than half of May on solar, a world first; (2) New cobalt-aluminum metal is up to 10 times stronger than steel and still bends; (3) Lindon Victor wins a record third straight Commonwealth decathlon gold; (4) FDA approves centanafadine, first new-class ADHD drug in decades.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-11.mp3</guid>
       <pubDate>Mon, 11 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, May 10, 2026</title>
-      <description>Four positive stories to start your morning: (1) Lighthouse of Alexandria — 22 massive stone blocks lifted from the Mediterranean seafloor (Culture/Archaeology); (2) USA Pickleball + Boys &amp; Girls Clubs of America — national partnership for youth access (Sports/Community); (3) "Vulnerable to Vibrant" Houston — 50 residents graduate as solar installers (Community/Innovation/Energy); (4) Sameer Santana, age 6, performs Heimlich on choking classmate — Stephen Olney Elementary, North Providence, Rhode Island (Community/Human Interest).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Lighthouse of Alexandria — 22 massive stone blocks lifted from the Mediterranean seafloor (Culture/Archaeology); (2) USA Pickleball + Boys &amp; Girls Clubs of America — national partnership for youth access (Sports/Community); (3) "Vulnerable to Vibrant" Houston — 50 residents graduate as solar installers (Community/Innovation/Energy); (4) Sameer Santana, age 6, performs Heimlich on choking classmate — Stephen Olney Elementary, North Providence, Rhode Island (Community/Human Interest).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-10.mp3" length="3706506" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-10.mp3</guid>
-      <pubDate>Sun, 10 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
