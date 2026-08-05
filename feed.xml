@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 05 Aug 2026 07:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 16:37:08 +0000</lastBuildDate>
+    <item>
+      <title>Mid Week Lift — Wednesday, August 5, 2026</title>
+      <description>A midweek bonus from The Morning Lift: “Sunlight-powered quantum photon pairs” — one of our most-loved stories, re-read for you. Originally from our May 20 episode. Hear a new lift every morning at themorninglift.org.</description>
+      <itunes:summary>A midweek bonus from The Morning Lift: “Sunlight-powered quantum photon pairs” — one of our most-loved stories, re-read for you. Originally from our May 20 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-08-05.mp3" length="2204360" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-08-05.mp3</guid>
+      <pubDate>Wed, 05 Aug 2026 11:30:00 -0500</pubDate>
+      <itunes:duration>02:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Wednesday, August 5, 2026</title>
       <description>Four positive stories to start your morning: (1) Global hunger falls below 8% for the first time since the pandemic; (2) Micronesia's internet access jumps twentyfold after its telecom monopoly ends; (3) Heat pumps are on the verge of becoming America's default home HVAC; (4) An Atlanta dad's weekly library trip grew into the 'Library Dads'.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-13.mp3</guid>
       <pubDate>Wed, 13 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:39</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, May 12, 2026</title>
-      <description>Four positive stories to start your morning: (1) North Atlantic right whale calving season produces 23 calves — highest in 15 years (Environment / Conservation); (2) Hanoi removes fences from Thong Nhat Park — its biggest park is now fully open public space (Environment / Community); (3) Women's Pro Baseball League announces inaugural-season schedule — first U.S. women's pro baseball since 1954 (Sports / Culture); (4) Colorado bans pet stores from selling dogs and cats — redirects the puppy-mill pipeline (Community / Animal Welfare).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) North Atlantic right whale calving season produces 23 calves — highest in 15 years (Environment / Conservation); (2) Hanoi removes fences from Thong Nhat Park — its biggest park is now fully open public space (Environment / Community); (3) Women's Pro Baseball League announces inaugural-season schedule — first U.S. women's pro baseball since 1954 (Sports / Culture); (4) Colorado bans pet stores from selling dogs and cats — redirects the puppy-mill pipeline (Community / Animal Welfare).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-12.mp3" length="3815174" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-12.mp3</guid>
-      <pubDate>Tue, 12 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
