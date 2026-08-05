@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 04 Aug 2026 07:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:09:43 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, August 5, 2026</title>
+      <description>Four positive stories to start your morning: (1) Global hunger falls below 8% for the first time since the pandemic; (2) Micronesia's internet access jumps twentyfold after its telecom monopoly ends; (3) Heat pumps are on the verge of becoming America's default home HVAC; (4) An Atlanta dad's weekly library trip grew into the 'Library Dads'.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Global hunger falls below 8% for the first time since the pandemic; (2) Micronesia's internet access jumps twentyfold after its telecom monopoly ends; (3) Heat pumps are on the verge of becoming America's default home HVAC; (4) An Atlanta dad's weekly library trip grew into the 'Library Dads'.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-05.mp3" length="4757255" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-05.mp3</guid>
+      <pubDate>Wed, 05 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, August 4, 2026</title>
       <description>Four positive stories to start your morning: (1) Laser scans reveal a lost Amazon civilization of up to three million people; (2) Australia's citizen 'Bug Hunt' passes one million observations and catches invasions early; (3) The American oystercatcher climbs back while other shorebirds fall; (4) Oakland opens a free library that lends sports gear so no kid is priced out.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-12.mp3</guid>
       <pubDate>Tue, 12 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Monday, May 11, 2026</title>
-      <description>Four positive stories to start your morning: (1) Sir David Attenborough turns 100; (2) Roeper School wins third consecutive forensics state title; (3) Common constipation drug shows promise slowing chronic kidney disease; (4) Two new American central libraries open this week.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Sir David Attenborough turns 100; (2) Roeper School wins third consecutive forensics state title; (3) Common constipation drug shows promise slowing chronic kidney disease; (4) Two new American central libraries open this week.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-11.mp3" length="4133660" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-11.mp3</guid>
-      <pubDate>Mon, 11 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
