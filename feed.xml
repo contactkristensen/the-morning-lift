@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 05 Aug 2026 16:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:31:28 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Thursday, August 6, 2026</title>
+      <description>Four positive stories to start your morning: (1) Japan hits 90% lithium recovery from dead EV batteries; (2) Autonomous AI eye-scans deliver a verified diagnosis at the pharmacy in about a minute; (3) Why cancer cells and viruses go invisible to the immune system; (4) Two poisonous plants give up the recipe for a promising medicine.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Japan hits 90% lithium recovery from dead EV batteries; (2) Autonomous AI eye-scans deliver a verified diagnosis at the pharmacy in about a minute; (3) Why cancer cells and viruses go invisible to the immune system; (4) Two poisonous plants give up the recipe for a promising medicine.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-06.mp3" length="4672827" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-06.mp3</guid>
+      <pubDate>Thu, 06 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mid Week Lift — Wednesday, August 5, 2026</title>
       <description>A midweek bonus from The Morning Lift: “Sunlight-powered quantum photon pairs” — one of our most-loved stories, re-read for you. Originally from our May 20 episode. Hear a new lift every morning at themorninglift.org.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-14.mp3</guid>
       <pubDate>Thu, 14 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, May 13, 2026</title>
-      <description>Four positive stories to start your morning: (1) Cape Verde becomes the smallest country by land area ever to qualify for the FIFA World Cup (Sports); (2) U.S. renewables generated more electricity than natural gas for an entire month, for the first time on record (Innovation/Energy); (3) Direct Prague–Copenhagen passenger rail returns after more than a decade (Innovation/Infrastructure); (4) A Wisconsin junior keeps a 14-year promise and takes his grandmother to prom (Community/Human Interest).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Cape Verde becomes the smallest country by land area ever to qualify for the FIFA World Cup (Sports); (2) U.S. renewables generated more electricity than natural gas for an entire month, for the first time on record (Innovation/Energy); (3) Direct Prague–Copenhagen passenger rail returns after more than a decade (Innovation/Infrastructure); (4) A Wisconsin junior keeps a 14-year promise and takes his grandmother to prom (Community/Human Interest).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-13.mp3" length="3517587" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-13.mp3</guid>
-      <pubDate>Wed, 13 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
