@@ -39,3 +39,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # 503MB of episode mp3s take a while to propagate to the CDN;
+          # the 10-min default times out. 30-min ceiling gives headroom.
+          timeout: 1800000
