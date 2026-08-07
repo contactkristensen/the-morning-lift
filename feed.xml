@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 06 Aug 2026 11:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:10:23 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Friday, August 7, 2026</title>
+      <description>Four positive stories to start your morning: (1) A bionic eye implant that restores central vision just cleared Europe; (2) Finland's town-scale sand battery cut heating emissions 70%; (3) A Czech axewoman set two world records at the Lumberjack World Championships; (4) A 64-year-old qualified as a nurse, studying alongside his own son.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A bionic eye implant that restores central vision just cleared Europe; (2) Finland's town-scale sand battery cut heating emissions 70%; (3) A Czech axewoman set two world records at the Lumberjack World Championships; (4) A 64-year-old qualified as a nurse, studying alongside his own son.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-07.mp3" length="4894015" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-07.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Thursday, August 6, 2026</title>
       <description>Four positive stories to start your morning: (1) Japan hits 90% lithium recovery from dead EV batteries; (2) Autonomous AI eye-scans deliver a verified diagnosis at the pharmacy in about a minute; (3) Why cancer cells and viruses go invisible to the immune system; (4) Two poisonous plants give up the recipe for a promising medicine.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-15.mp3</guid>
       <pubDate>Fri, 15 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, May 14, 2026</title>
-      <description>Four positive stories to start your morning: (1) Hidden molecular switch in brown fat could change weight and bone health together; (2) KehatiKu pays Borneo villagers to record wildlife — and the math of the forest changes; (3) Australian researchers turn plastic waste into clean hydrogen using sunlight; (4) NASA fires up most powerful electric thruster ever tested in the US — a step toward crewed Mars.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Hidden molecular switch in brown fat could change weight and bone health together; (2) KehatiKu pays Borneo villagers to record wildlife — and the math of the forest changes; (3) Australian researchers turn plastic waste into clean hydrogen using sunlight; (4) NASA fires up most powerful electric thruster ever tested in the US — a step toward crewed Mars.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-14.mp3" length="3918828" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-14.mp3</guid>
-      <pubDate>Thu, 14 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
