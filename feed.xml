@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 07 Aug 2026 07:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:09:42 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, August 8, 2026</title>
+      <description>Four positive stories to start your morning: (1) A hidden magma reservoir the size of a country is mapped beneath Tuscany; (2) A complete early Christian monastic complex is uncovered in Upper Egypt; (3) A new 3D-printing method makes tungsten carbide tools harder with less raw material; (4) Stanford names the "ruptoblast," an immune cell that explodes to kill invaders.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A hidden magma reservoir the size of a country is mapped beneath Tuscany; (2) A complete early Christian monastic complex is uncovered in Upper Egypt; (3) A new 3D-printing method makes tungsten carbide tools harder with less raw material; (4) Stanford names the "ruptoblast," an immune cell that explodes to kill invaders.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-08.mp3" length="5008866" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-08.mp3</guid>
+      <pubDate>Sat, 08 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, August 7, 2026</title>
       <description>Four positive stories to start your morning: (1) A bionic eye implant that restores central vision just cleared Europe; (2) Finland's town-scale sand battery cut heating emissions 70%; (3) A Czech axewoman set two world records at the Lumberjack World Championships; (4) A 64-year-old qualified as a nurse, studying alongside his own son.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-16.mp3</guid>
       <pubDate>Sat, 16 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, May 15, 2026</title>
-      <description>Four positive stories to start your morning: (1) New Zealand's kākāpō has its best breeding season ever (Environment / Conservation); (2) Wings for Life World Run 2026 sets new global record (Sports / Community); (3) JUPITER supercomputer sets new world record with 50-qubit quantum simulation (Innovation / Science); (4) A 6-year-old in Norway found a 1,300-year-old Viking-era sword on a school trip (Culture / Archaeology / Discovery).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) New Zealand's kākāpō has its best breeding season ever (Environment / Conservation); (2) Wings for Life World Run 2026 sets new global record (Sports / Community); (3) JUPITER supercomputer sets new world record with 50-qubit quantum simulation (Innovation / Science); (4) A 6-year-old in Norway found a 1,300-year-old Viking-era sword on a school trip (Culture / Archaeology / Discovery).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-15.mp3" length="3542247" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-15.mp3</guid>
-      <pubDate>Fri, 15 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
