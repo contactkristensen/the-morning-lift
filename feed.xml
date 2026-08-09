@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 08 Aug 2026 07:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:09:49 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, August 9, 2026</title>
+      <description>Four positive stories to start your morning: (1) Colossal 2,500-year-old marble statue unearthed at ancient Sardis; (2) Scientists identify the brain cells that sustain motivation; (3) Compressorless hydrogen turbine runs 303 seconds and makes electricity; (4) D.C. reading pilot posts 54% more growth for students furthest behind.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Colossal 2,500-year-old marble statue unearthed at ancient Sardis; (2) Scientists identify the brain cells that sustain motivation; (3) Compressorless hydrogen turbine runs 303 seconds and makes electricity; (4) D.C. reading pilot posts 54% more growth for students furthest behind.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-09.mp3" length="5098309" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-09.mp3</guid>
+      <pubDate>Sun, 09 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, August 8, 2026</title>
       <description>Four positive stories to start your morning: (1) A hidden magma reservoir the size of a country is mapped beneath Tuscany; (2) A complete early Christian monastic complex is uncovered in Upper Egypt; (3) A new 3D-printing method makes tungsten carbide tools harder with less raw material; (4) Stanford names the "ruptoblast," an immune cell that explodes to kill invaders.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-17.mp3</guid>
       <pubDate>Sun, 17 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>03:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, May 16, 2026</title>
-      <description>Four positive stories to start your morning: (1) NHS rolls out a one-minute immunotherapy injection (Health/Medicine); (2) 108 school districts quietly bucking the national reading slide (Community/Education); (3) Cleveland Orchestra opens the Mandel Festival on the theme of courage (Culture/Arts); (4) The Chinese money plant turns out to be doing Voronoi geometry (Science/Nature).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) NHS rolls out a one-minute immunotherapy injection (Health/Medicine); (2) 108 school districts quietly bucking the national reading slide (Community/Education); (3) Cleveland Orchestra opens the Mandel Festival on the theme of courage (Culture/Arts); (4) The Chinese money plant turns out to be doing Voronoi geometry (Science/Nature).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-16.mp3" length="3690205" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-16.mp3</guid>
-      <pubDate>Sat, 16 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
