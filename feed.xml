@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 09 Aug 2026 07:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:09:49 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, August 10, 2026</title>
+      <description>Four positive stories to start your morning: (1) A bean-grown chewing gum stripped up to 93% of HPV from patients' saliva in lab tests; (2) Chelsea Gray won one WNBA game with back-to-back buzzer-beaters; (3) A Green Bay home-repair program drew record demand from neighbors; (4) Bison and fire are rebuilding an Illinois prairie, and the birds are returning.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A bean-grown chewing gum stripped up to 93% of HPV from patients' saliva in lab tests; (2) Chelsea Gray won one WNBA game with back-to-back buzzer-beaters; (3) A Green Bay home-repair program drew record demand from neighbors; (4) Bison and fire are rebuilding an Illinois prairie, and the birds are returning.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-10.mp3" length="4542424" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-10.mp3</guid>
+      <pubDate>Mon, 10 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, August 9, 2026</title>
       <description>Four positive stories to start your morning: (1) Colossal 2,500-year-old marble statue unearthed at ancient Sardis; (2) Scientists identify the brain cells that sustain motivation; (3) Compressorless hydrogen turbine runs 303 seconds and makes electricity; (4) D.C. reading pilot posts 54% more growth for students furthest behind.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-18.mp3</guid>
       <pubDate>Mon, 18 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, May 17, 2026</title>
-      <description>Four positive stories to start your morning: (1) Malaria vaccine averts 1 in 8 child deaths in first rollout countries; (2) California coho salmon return — 30,000 to Mendocino coast, naturally reproducing in upper Russian River; (3) Deep canyons off Western Australia reveal hidden marine life; (4) Cumberland, BC repurposing abandoned coal-mine groundwater for geothermal.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Malaria vaccine averts 1 in 8 child deaths in first rollout countries; (2) California coho salmon return — 30,000 to Mendocino coast, naturally reproducing in upper Russian River; (3) Deep canyons off Western Australia reveal hidden marine life; (4) Cumberland, BC repurposing abandoned coal-mine groundwater for geothermal.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-17.mp3" length="3650081" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-17.mp3</guid>
-      <pubDate>Sun, 17 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>03:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
