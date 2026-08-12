@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 11 Aug 2026 07:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:09:48 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, August 12, 2026</title>
+      <description>Four positive stories to start your morning: (1) FDA approves Tudriqev, a living virus that turns melanoma tumors against themselves; (2) A near-extinct Amazon language, Taushiro, gets a formal revival; (3) The surprise comeback of 2026 is the compact disc; (4) Michaela Walsh becomes first boxer to win four Commonwealth Games medals.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) FDA approves Tudriqev, a living virus that turns melanoma tumors against themselves; (2) A near-extinct Amazon language, Taushiro, gets a formal revival; (3) The surprise comeback of 2026 is the compact disc; (4) Michaela Walsh becomes first boxer to win four Commonwealth Games medals.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-12.mp3" length="4837503" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-12.mp3</guid>
+      <pubDate>Wed, 12 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, August 11, 2026</title>
       <description>Four positive stories to start your morning: (1) A Queens basketball court that swallows 330,000 gallons of floodwater; (2) Ma Rainey's buried notes recovered a century later; (3) Quantum entanglement sent 62 km over ordinary overhead fiber; (4) A Spokane bootmaker outfitting wildfire crews for free.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-20.mp3</guid>
       <pubDate>Wed, 20 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, May 19, 2026</title>
-      <description>Four positive stories to start your morning: (1) Headline:; (2) Headline:; (3) Headline:; (4) Headline:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Headline:; (2) Headline:; (3) Headline:; (4) Headline:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-19.mp3" length="4045052" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-19.mp3</guid>
-      <pubDate>Tue, 19 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
