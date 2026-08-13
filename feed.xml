@@ -16,7 +16,27 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 12 Aug 2026 07:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:10:11 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Thursday, August 13, 2026</title>
+      <description>Four positive stories to start your morning: (1) First-in-class narcolepsy drug oveporexton wins FDA approval; (2) Brazil's Amazon deforestation falls to lowest since 2013; (3) Tate Taylor's sprint double and a U20 relay world record in Eugene; (4) 13-year-old Zac Waters 3D-prints a custom wheelchair for a toddler.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) First-in-class narcolepsy drug oveporexton wins FDA approval; (2) Brazil's Amazon deforestation falls to lowest since 2013; (3) Tate Taylor's sprint double and a U20 relay world record in Eugene; (4) 13-year-old Zac Waters 3D-prints a custom wheelchair for a toddler.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-13.mp3" length="4995491" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-13.mp3</guid>
+      <pubDate>Thu, 13 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mid Week Lift — Wednesday, August 12, 2026</title>
+      <description>A midweek bonus from The Morning Lift: “Superconductivity record at 151K, ambient pressure” — one of our most-loved stories, re-read for you. Originally from our May 29 episode. Hear a new lift every morning at themorninglift.org.</description>
+      <itunes:summary>A midweek bonus from The Morning Lift: “Superconductivity record at 151K, ambient pressure” — one of our most-loved stories, re-read for you. Originally from our May 29 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-08-12.mp3" length="1849931" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-08-12.mp3</guid>
+      <pubDate>Wed, 12 Aug 2026 11:30:00 -0500</pubDate>
+      <itunes:duration>01:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Wednesday, August 12, 2026</title>
       <description>Four positive stories to start your morning: (1) FDA approves Tudriqev, a living virus that turns melanoma tumors against themselves; (2) A near-extinct Amazon language, Taushiro, gets a formal revival; (3) The surprise comeback of 2026 is the compact disc; (4) Michaela Walsh becomes first boxer to win four Commonwealth Games medals.</description>
@@ -895,26 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-22.mp3</guid>
       <pubDate>Fri, 22 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, May 21, 2026</title>
-      <description>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-21.mp3" length="5045228" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-21.mp3</guid>
-      <pubDate>Thu, 21 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, May 20, 2026</title>
-      <description>Four positive stories to start your morning: (1) Source:; (2) Source:; (3) Source:; (4) Source:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Source:; (2) Source:; (3) Source:; (4) Source:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-20.mp3" length="5472383" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-20.mp3</guid>
-      <pubDate>Wed, 20 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
