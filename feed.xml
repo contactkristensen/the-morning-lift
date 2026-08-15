@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 14 Aug 2026 07:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 07:09:39 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, August 15, 2026</title>
+      <description>Four positive stories to start your morning: (1) Professional women's baseball returns to an American field for the first time since 1954; (2) NASA's 'Big Bang' power maneuver buys Voyager 2 another year of science; (3) A monsoon gives the Great Barrier Reef its first real bleaching reprieve in years; (4) Wool-derived keratin regrows bone better-aligned than the standard scaffold.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Professional women's baseball returns to an American field for the first time since 1954; (2) NASA's 'Big Bang' power maneuver buys Voyager 2 another year of science; (3) A monsoon gives the Great Barrier Reef its first real bleaching reprieve in years; (4) Wool-derived keratin regrows bone better-aligned than the standard scaffold.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-15.mp3" length="4807828" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-15.mp3</guid>
+      <pubDate>Sat, 15 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, August 14, 2026</title>
       <description>Four positive stories to start your morning: (1) New "SS-H2" stainless steel survives the electrolyzer and could cut green-hydrogen material cost ~40x; (2) India crosses 300 GW of non-fossil power capacity, past 60% of its 2030 goal; (3) Nearly 100-year-old Herron's Crown Theater reopens as a community theater in Collinsville, OK; (4) Miltiadis Tentoglou wins a 4th straight European long-jump title (8.44 m), most successful in event history.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-24.mp3</guid>
       <pubDate>Sun, 24 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:45</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, May 23, 2026</title>
-      <description>Four positive stories to start your morning: (1) AI tool confirms 118 new exoplanets hidden in NASA's TESS data; (2) Dutch court rules bottom trawling in a marine protected area unlawful; (3) Knicks erase a 22-point deficit to win Game 1 of the Eastern Conference Finals; (4) Good Neighbor Day America: a coordinated national day of service.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) AI tool confirms 118 new exoplanets hidden in NASA's TESS data; (2) Dutch court rules bottom trawling in a marine protected area unlawful; (3) Knicks erase a 22-point deficit to win Game 1 of the Eastern Conference Finals; (4) Good Neighbor Day America: a coordinated national day of service.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-23.mp3" length="4888494" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-23.mp3</guid>
-      <pubDate>Sat, 23 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
