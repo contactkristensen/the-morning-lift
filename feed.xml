@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 15 Aug 2026 07:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:09:44 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, August 16, 2026</title>
+      <description>Four positive stories to start your morning: (1) The adult brain rebuilds tissue it was never supposed to replace; (2) A soft robot hand out-maneuvers the human hand; (3) Fossils suggest our mammal ancestors gave birth to live young; (4) A prescription app measurably improves life with MS.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) The adult brain rebuilds tissue it was never supposed to replace; (2) A soft robot hand out-maneuvers the human hand; (3) Fossils suggest our mammal ancestors gave birth to live young; (4) A prescription app measurably improves life with MS.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-16.mp3" length="5016390" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-16.mp3</guid>
+      <pubDate>Sun, 16 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, August 15, 2026</title>
       <description>Four positive stories to start your morning: (1) Professional women's baseball returns to an American field for the first time since 1954; (2) NASA's 'Big Bang' power maneuver buys Voyager 2 another year of science; (3) A monsoon gives the Great Barrier Reef its first real bleaching reprieve in years; (4) Wool-derived keratin regrows bone better-aligned than the standard scaffold.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-25.mp3</guid>
       <pubDate>Mon, 25 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, May 24, 2026</title>
-      <description>Four positive stories to start your morning: (1) GLP-1 drugs cut cardiovascular risk — and not just by trimming weight; (2) A platinum-free catalyst moves clean hydrogen toward "buildable"; (3) Arsenal win the Premier League — first title in 22 years; (4) The Quentin Blake Centre for Illustration opens — a first permanent home for the art form.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) GLP-1 drugs cut cardiovascular risk — and not just by trimming weight; (2) A platinum-free catalyst moves clean hydrogen toward "buildable"; (3) Arsenal win the Premier League — first title in 22 years; (4) The Quentin Blake Centre for Illustration opens — a first permanent home for the art form.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-24.mp3" length="4561231" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-24.mp3</guid>
-      <pubDate>Sun, 24 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
