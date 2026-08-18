@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 17 Aug 2026 07:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:10:35 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, August 18, 2026</title>
+      <description>Four positive stories to start your morning: (1) Three-drug regimen clears HIV in newborn primates with no rebound; (2) Sloan Digital Sky Survey DR20 releases 3 million spectra, free and usable; (3) Prairie Creek restoration doubles young salmon growth and ocean survival; (4) At 97, a doctor keeps a promise and coats his great-granddaughter.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Three-drug regimen clears HIV in newborn primates with no rebound; (2) Sloan Digital Sky Survey DR20 releases 3 million spectra, free and usable; (3) Prairie Creek restoration doubles young salmon growth and ocean survival; (4) At 97, a doctor keeps a promise and coats his great-granddaughter.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-18.mp3" length="5015972" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-18.mp3</guid>
+      <pubDate>Tue, 18 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, August 17, 2026</title>
       <description>Four positive stories to start your morning: (1) Lani Pallister beat Katie Ledecky in the 400 free at Pan Pacs; (2) First cyclic quantum heat engine built in a superconducting circuit; (3) Estrogen-only hormone therapy linked to fewer Alzheimer's hallmarks in brain tissue; (4) The Last Museum indexes ~5 million artworks across 4,903 museums.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-27.mp3</guid>
       <pubDate>Wed, 27 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, May 26, 2026</title>
-      <description>Four positive stories to start your morning: (1) A seven-cent teabag that removes arsenic from drinking water; (2) Baltimore records its fewest monthly homicides since 1970; (3) A failed communist megaproject becomes Bucharest's largest green space; (4) The first large-scale genetic map of cancer in cats.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) A seven-cent teabag that removes arsenic from drinking water; (2) Baltimore records its fewest monthly homicides since 1970; (3) A failed communist megaproject becomes Bucharest's largest green space; (4) The first large-scale genetic map of cancer in cats.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-26.mp3" length="4859654" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-26.mp3</guid>
-      <pubDate>Tue, 26 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
