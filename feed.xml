@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 18 Aug 2026 07:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:10:18 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, August 19, 2026</title>
+      <description>Four positive stories to start your morning: (1) A dime-a-day heart drug from the 1700s cut hospitalizations by 25%; (2) Canada beat the USA 27-20 for flag football world gold and the sport's first Olympic place; (3) AI is reassembling the Oseberg Viking ship textiles — and found a join specialists missed — Culture/Museum Conservation; (4) Two Wendy's franchise owners paid a shift manager's tuition — he starts at Yale this fall — Community/Generosity.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A dime-a-day heart drug from the 1700s cut hospitalizations by 25%; (2) Canada beat the USA 27-20 for flag football world gold and the sport's first Olympic place; (3) AI is reassembling the Oseberg Viking ship textiles — and found a join specialists missed — Culture/Museum Conservation; (4) Two Wendy's franchise owners paid a shift manager's tuition — he starts at Yale this fall — Community/Generosity.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-19.mp3" length="4922348" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-19.mp3</guid>
+      <pubDate>Wed, 19 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, August 18, 2026</title>
       <description>Four positive stories to start your morning: (1) Three-drug regimen clears HIV in newborn primates with no rebound; (2) Sloan Digital Sky Survey DR20 releases 3 million spectra, free and usable; (3) Prairie Creek restoration doubles young salmon growth and ocean survival; (4) At 97, a doctor keeps a promise and coats his great-granddaughter.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-28.mp3</guid>
       <pubDate>Thu, 28 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, May 27, 2026</title>
-      <description>Four positive stories to start your morning: (1) Felix Rosenqvist wins the closest Indy 500 in history; (2) Grid battery storage hits a record 112 GW in 2025; (3) UT Southwestern finds HELZ2, a liver "dimmer" on bad cholesterol; (4) Big Bear kids raising millions to buy and protect open land.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Felix Rosenqvist wins the closest Indy 500 in history; (2) Grid battery storage hits a record 112 GW in 2025; (3) UT Southwestern finds HELZ2, a liver "dimmer" on bad cholesterol; (4) Big Bear kids raising millions to buy and protect open land.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-27.mp3" length="4367298" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-27.mp3</guid>
-      <pubDate>Wed, 27 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
