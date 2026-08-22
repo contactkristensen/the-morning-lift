@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 21 Aug 2026 14:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:14:10 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, August 22, 2026</title>
+      <description>Four positive stories to start your morning: (1) Minnesota's breeding duck population jumped 63% in a year the wetlands didn't improve; (2) An intact 4,000-year-old "enigmatic tablet" came out of a Bronze Age site near Lake Garda; (3) Silver nanoparticles cut DNA more precisely than the enzymes biologists have used for 50 years; (4) 58 rehabilitated wild animals were released back into a Philippine protected landscape.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Minnesota's breeding duck population jumped 63% in a year the wetlands didn't improve; (2) An intact 4,000-year-old "enigmatic tablet" came out of a Bronze Age site near Lake Garda; (3) Silver nanoparticles cut DNA more precisely than the enzymes biologists have used for 50 years; (4) 58 rehabilitated wild animals were released back into a Philippine protected landscape.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-22.mp3" length="6729692" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-22.mp3</guid>
+      <pubDate>Sat, 22 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, August 21, 2026</title>
       <description>Four positive stories to start your morning: (1) Cement kilns could be run backward to pull carbon out of the air; (2) A magnetar delivers the strongest evidence yet that empty space isn't empty; (3) Little League World Series opens with twenty teams and two girls on the field; (4) Italian sanitation crew digs through a full garbage truck to recover a million-euro lottery ticket.</description>
@@ -904,16 +914,6 @@
       <enclosure url="https://themorninglift.org/TML_2026-05-31.mp3" length="4919840" type="audio/mpeg"/>
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-31.mp3</guid>
       <pubDate>Sun, 31 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, May 30, 2026</title>
-      <description>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Category:; (2) Category:; (3) Category:; (4) Category:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-30.mp3" length="5185245" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-30.mp3</guid>
-      <pubDate>Sat, 30 May 2026 02:00:00 -0500</pubDate>
       <itunes:duration>00:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
