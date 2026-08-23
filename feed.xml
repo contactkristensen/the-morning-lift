@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 22 Aug 2026 16:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:18:47 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, August 23, 2026</title>
+      <description>Four positive stories to start your morning: (1) A Johns Hopkins vaccine taught 18 of 20 high-risk patients' immune systems to hunt pancreatic cancer before it forms; (2) An 18-year-old ranked 92nd with no full-time coach beat the 14th seed at badminton's World Championships; (3) A fisherman survived 15 days in a flooded Mexican cave in an air pocket, and the search never stopped; (4) Livermore crushed diamond past Neptune-core pressures, fixed a 1,000-degree error, and may have tripled fusion's ceiling.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A Johns Hopkins vaccine taught 18 of 20 high-risk patients' immune systems to hunt pancreatic cancer before it forms; (2) An 18-year-old ranked 92nd with no full-time coach beat the 14th seed at badminton's World Championships; (3) A fisherman survived 15 days in a flooded Mexican cave in an air pocket, and the search never stopped; (4) Livermore crushed diamond past Neptune-core pressures, fixed a 1,000-degree error, and may have tripled fusion's ceiling.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-23.mp3" length="5607427" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-23.mp3</guid>
+      <pubDate>Sun, 23 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, August 22, 2026</title>
       <description>Four positive stories to start your morning: (1) Minnesota's breeding duck population jumped 63% in a year the wetlands didn't improve; (2) An intact 4,000-year-old "enigmatic tablet" came out of a Bronze Age site near Lake Garda; (3) Silver nanoparticles cut DNA more precisely than the enzymes biologists have used for 50 years; (4) 58 rehabilitated wild animals were released back into a Philippine protected landscape.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-01.mp3</guid>
       <pubDate>Mon, 01 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, May 31, 2026</title>
-      <description>Four positive stories to start your morning: (1) Saturn's rotation puzzle solved by JWST (Science/Planetary); (2) Anacostia Community Museum opens "We Make History" with the Plummer family diary at its center (Community/Heritage); (3) Platypuses breeding again in Australia's Hacking River after 50+ year absence (Environment/Conservation); (4) England's first Dutch-style "fietsstraat" cycle street opens in Cambridge (Innovation/Urban).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Saturn's rotation puzzle solved by JWST (Science/Planetary); (2) Anacostia Community Museum opens "We Make History" with the Plummer family diary at its center (Community/Heritage); (3) Platypuses breeding again in Australia's Hacking River after 50+ year absence (Environment/Conservation); (4) England's first Dutch-style "fietsstraat" cycle street opens in Cambridge (Innovation/Urban).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-05-31.mp3" length="4919840" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-05-31.mp3</guid>
-      <pubDate>Sun, 31 May 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
