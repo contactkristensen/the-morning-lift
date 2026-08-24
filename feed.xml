@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 23 Aug 2026 07:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:51:10 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, August 24, 2026</title>
+      <description>Four positive stories to start your morning: (1) LiDAR survey triples the known size of an Amazonian civilization; (2) Caltech gets fiber-grade optical performance onto a silicon chip; (3) Porto makes public transport free for residents; (4) Italy's art squad recovers stolen Renoir, Cézanne and Matisse.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) LiDAR survey triples the known size of an Amazonian civilization; (2) Caltech gets fiber-grade optical performance onto a silicon chip; (3) Porto makes public transport free for residents; (4) Italy's art squad recovers stolen Renoir, Cézanne and Matisse.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-24.mp3" length="5016806" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-24.mp3</guid>
+      <pubDate>Mon, 24 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, August 23, 2026</title>
       <description>Four positive stories to start your morning: (1) A Johns Hopkins vaccine taught 18 of 20 high-risk patients' immune systems to hunt pancreatic cancer before it forms; (2) An 18-year-old ranked 92nd with no full-time coach beat the 14th seed at badminton's World Championships; (3) A fisherman survived 15 days in a flooded Mexican cave in an air pocket, and the search never stopped; (4) Livermore crushed diamond past Neptune-core pressures, fixed a 1,000-degree error, and may have tripled fusion's ceiling.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-02.mp3</guid>
       <pubDate>Tue, 02 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Monday, June 1, 2026</title>
-      <description>Four positive stories to start your morning: (1) Joao Fonseca beats Novak Djokovic, Roland-Garros R3; (2) Ancient DNA: women spread farming into NW Europe via marriage; (3) Kank australis — new heron-niche raptor dinosaur from Patagonia; (4) Iowa teacher Kim Rohlf makes custom quilts for every student before retirement.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Joao Fonseca beats Novak Djokovic, Roland-Garros R3; (2) Ancient DNA: women spread farming into NW Europe via marriage; (3) Kank australis — new heron-niche raptor dinosaur from Patagonia; (4) Iowa teacher Kim Rohlf makes custom quilts for every student before retirement.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-01.mp3" length="5193186" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-01.mp3</guid>
-      <pubDate>Mon, 01 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
