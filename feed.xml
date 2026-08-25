@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 24 Aug 2026 07:51:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:40:37 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, August 25, 2026</title>
+      <description>Four positive stories to start your morning: (1) Kate Douglass breaks the 50m freestyle world record twice in a single day; (2) World's largest all-electric aircraft completes its first flight on about $5 of electricity; (3) UK maternal RSV vaccine halves newborn intensive care admissions in its first full year; (4) Greenland shark retinas show almost no aging after four centuries.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Kate Douglass breaks the 50m freestyle world record twice in a single day; (2) World's largest all-electric aircraft completes its first flight on about $5 of electricity; (3) UK maternal RSV vaccine halves newborn intensive care admissions in its first full year; (4) Greenland shark retinas show almost no aging after four centuries.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-25.mp3" length="5655029" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-25.mp3</guid>
+      <pubDate>Tue, 25 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, August 24, 2026</title>
       <description>Four positive stories to start your morning: (1) LiDAR survey triples the known size of an Amazonian civilization; (2) Caltech gets fiber-grade optical performance onto a silicon chip; (3) Porto makes public transport free for residents; (4) Italy's art squad recovers stolen Renoir, Cézanne and Matisse.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-03.mp3</guid>
       <pubDate>Wed, 03 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, June 2, 2026</title>
-      <description>Four positive stories to start your morning: (1) Daraxonrasib doubles survival in metastatic pancreatic cancer; (2) Zero-waste solar desalination — University of Rochester; (3) Seini synagogue restoration completed — becomes Museum of the Jews of Transylvania; (4) Solar overtakes coal on the Texas (ERCOT) grid — first time annually.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Daraxonrasib doubles survival in metastatic pancreatic cancer; (2) Zero-waste solar desalination — University of Rochester; (3) Seini synagogue restoration completed — becomes Museum of the Jews of Transylvania; (4) Solar overtakes coal on the Texas (ERCOT) grid — first time annually.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-02.mp3" length="4809081" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-02.mp3</guid>
-      <pubDate>Tue, 02 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
