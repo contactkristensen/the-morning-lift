@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 26 Aug 2026 07:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:48:05 +0000</lastBuildDate>
+    <item>
+      <title>Mid Week Lift — Wednesday, August 26, 2026</title>
+      <description>A midweek bonus from The Morning Lift: “Environment / Conservation — Floreana giant tortoise returns” — one of our most-loved stories, re-read for you. Originally from our June 10 episode. Hear a new lift every morning at themorninglift.org.</description>
+      <itunes:summary>A midweek bonus from The Morning Lift: “Environment / Conservation — Floreana giant tortoise returns” — one of our most-loved stories, re-read for you. Originally from our June 10 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-08-26.mp3" length="1798522" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-08-26.mp3</guid>
+      <pubDate>Wed, 26 Aug 2026 11:30:00 -0500</pubDate>
+      <itunes:duration>01:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Wednesday, August 26, 2026</title>
       <description>Four positive stories to start your morning: (1) A Norfolk farm field became a species-rich wildflower meadow with nobody sowing a seed; (2) UT Dallas cuts the slowest step in 3D-printed zirconia crowns from 100 hours to under 30 minutes; (3) AI decodes the DNA "initiator," the start signal in about 60% of human genes; (4) Lynn teenagers are painting the murals they designed onto four-story walls.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-05.mp3</guid>
       <pubDate>Fri, 05 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, June 4, 2026</title>
-      <description>Four positive stories to start your morning: (1) ASKAP J1745 — the Rosetta Stone for long-period radio transients; (2) Red-cockaded woodpecker — record 2026 nesting count in Virginia; (3) NFIL3 — a CRISPR fix for CAR T-cell exhaustion against solid tumors; (4) McKendree — first-ever NCAA Division II softball national champion.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) ASKAP J1745 — the Rosetta Stone for long-period radio transients; (2) Red-cockaded woodpecker — record 2026 nesting count in Virginia; (3) NFIL3 — a CRISPR fix for CAR T-cell exhaustion against solid tumors; (4) McKendree — first-ever NCAA Division II softball national champion.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-04.mp3" length="4845026" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-04.mp3</guid>
-      <pubDate>Thu, 04 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
