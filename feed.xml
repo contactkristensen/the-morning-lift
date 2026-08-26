@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 25 Aug 2026 07:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:29:27 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, August 26, 2026</title>
+      <description>Four positive stories to start your morning: (1) A Norfolk farm field became a species-rich wildflower meadow with nobody sowing a seed; (2) UT Dallas cuts the slowest step in 3D-printed zirconia crowns from 100 hours to under 30 minutes; (3) AI decodes the DNA "initiator," the start signal in about 60% of human genes; (4) Lynn teenagers are painting the murals they designed onto four-story walls.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A Norfolk farm field became a species-rich wildflower meadow with nobody sowing a seed; (2) UT Dallas cuts the slowest step in 3D-printed zirconia crowns from 100 hours to under 30 minutes; (3) AI decodes the DNA "initiator," the start signal in about 60% of human genes; (4) Lynn teenagers are painting the murals they designed onto four-story walls.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-26.mp3" length="4950351" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-26.mp3</guid>
+      <pubDate>Wed, 26 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, August 25, 2026</title>
       <description>Four positive stories to start your morning: (1) Kate Douglass breaks the 50m freestyle world record twice in a single day; (2) World's largest all-electric aircraft completes its first flight on about $5 of electricity; (3) UK maternal RSV vaccine halves newborn intensive care admissions in its first full year; (4) Greenland shark retinas show almost no aging after four centuries.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-04.mp3</guid>
       <pubDate>Thu, 04 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, June 3, 2026</title>
-      <description>Four positive stories to start your morning: (1) Headline:; (2) Headline:; (3) Headline:; (4) Headline:.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Headline:; (2) Headline:; (3) Headline:; (4) Headline:.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-03.mp3" length="5103325" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-03.mp3</guid>
-      <pubDate>Wed, 03 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
