@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 26 Aug 2026 16:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:57:53 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Thursday, August 27, 2026</title>
+      <description>Four positive stories to start your morning: (1) The Bayeux Tapestry's missing ending is being handed to British schoolchildren; (2) Blind tennis holds its first full World Championships in Vilnius; (3) California will require every high schooler to pass a personal finance course; (4) Ethiopian farmers replace diesel pumps with solar irrigation.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) The Bayeux Tapestry's missing ending is being handed to British schoolchildren; (2) Blind tennis holds its first full World Championships in Vilnius; (3) California will require every high schooler to pass a personal finance course; (4) Ethiopian farmers replace diesel pumps with solar irrigation.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-27.mp3" length="5104578" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-27.mp3</guid>
+      <pubDate>Thu, 27 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mid Week Lift — Wednesday, August 26, 2026</title>
       <description>A midweek bonus from The Morning Lift: “Environment / Conservation — Floreana giant tortoise returns” — one of our most-loved stories, re-read for you. Originally from our June 10 episode. Hear a new lift every morning at themorninglift.org.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-06.mp3</guid>
       <pubDate>Sat, 06 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, June 5, 2026</title>
-      <description>Four positive stories to start your morning: (1) First evidence of magnetic fields on exoplanets; (2) 5,500-year-old high-altitude copper-working cave, Pyrenees; (3) Goya's San Antonio de la Florida frescoes restored, Madrid; (4) Amivantamab shrinks advanced head &amp; neck cancer (OrigAMI-4).</description>
-      <itunes:summary>Four positive stories to start your morning: (1) First evidence of magnetic fields on exoplanets; (2) 5,500-year-old high-altitude copper-working cave, Pyrenees; (3) Goya's San Antonio de la Florida frescoes restored, Madrid; (4) Amivantamab shrinks advanced head &amp; neck cancer (OrigAMI-4).</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-05.mp3" length="4989640" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-05.mp3</guid>
-      <pubDate>Fri, 05 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
