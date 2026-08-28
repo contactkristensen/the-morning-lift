@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 27 Aug 2026 07:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 07:17:25 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Friday, August 28, 2026</title>
+      <description>Four positive stories to start your morning: (1) FDA approves the first narcolepsy drug that treats the cause instead of the symptoms; (2) Virginia pays seven mentor-apprentice pairs to move a craft from one person to another; (3) A 21-year-old becomes the first woman to represent the US in welding at WorldSkills; (4) Shingles shot linked to 24% lower dementia risk in half a million older adults.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) FDA approves the first narcolepsy drug that treats the cause instead of the symptoms; (2) Virginia pays seven mentor-apprentice pairs to move a craft from one person to another; (3) A 21-year-old becomes the first woman to represent the US in welding at WorldSkills; (4) Shingles shot linked to 24% lower dementia risk in half a million older adults.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-28.mp3" length="5456499" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-28.mp3</guid>
+      <pubDate>Fri, 28 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Thursday, August 27, 2026</title>
       <description>Four positive stories to start your morning: (1) The Bayeux Tapestry's missing ending is being handed to British schoolchildren; (2) Blind tennis holds its first full World Championships in Vilnius; (3) California will require every high schooler to pass a personal finance course; (4) Ethiopian farmers replace diesel pumps with solar irrigation.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-07.mp3</guid>
       <pubDate>Sun, 07 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, June 6, 2026</title>
-      <description>Four positive stories to start your morning: (1) "Another Wonderland": rescued WPA Alice murals open at MCNY; (2) MLK Center opens North End satellite food pantry, Newport RI; (3) PRIMA retinal implant restores central vision in advanced AMD; (4) EPFL shrinks a tabletop ultrafast laser onto a chip.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) "Another Wonderland": rescued WPA Alice murals open at MCNY; (2) MLK Center opens North End satellite food pantry, Newport RI; (3) PRIMA retinal implant restores central vision in advanced AMD; (4) EPFL shrinks a tabletop ultrafast laser onto a chip.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-06.mp3" length="5072814" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-06.mp3</guid>
-      <pubDate>Sat, 06 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
