@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 28 Aug 2026 07:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:07:14 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, August 29, 2026</title>
+      <description>Four positive stories to start your morning: (1) NASA's Roman Space Telescope launches tomorrow with a camera a hundred times wider than Hubble's; (2) An 11,000-year-old sculpture of a human riding a leopard, the first of its kind ever found; (3) Batteries have broken solar's daylight-only limit; (4) A desert plant's survival sugar just made a vaccine that doesn't need a fridge.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) NASA's Roman Space Telescope launches tomorrow with a camera a hundred times wider than Hubble's; (2) An 11,000-year-old sculpture of a human riding a leopard, the first of its kind ever found; (3) Batteries have broken solar's daylight-only limit; (4) A desert plant's survival sugar just made a vaccine that doesn't need a fridge.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-29.mp3" length="4935304" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-29.mp3</guid>
+      <pubDate>Sat, 29 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, August 28, 2026</title>
       <description>Four positive stories to start your morning: (1) FDA approves the first narcolepsy drug that treats the cause instead of the symptoms; (2) Virginia pays seven mentor-apprentice pairs to move a craft from one person to another; (3) A 21-year-old becomes the first woman to represent the US in welding at WorldSkills; (4) Shingles shot linked to 24% lower dementia risk in half a million older adults.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-08.mp3</guid>
       <pubDate>Mon, 08 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, June 7, 2026</title>
-      <description>Four positive stories to start your morning: (1) Octopuses use mirrors to find food they can't see; (2) Europe sets a new dam-removal record; (3) Roman bridge found in the Aare riverbed; (4) Mirra Andreeva wins the French Open.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Octopuses use mirrors to find food they can't see; (2) Europe sets a new dam-removal record; (3) Roman bridge found in the Aare riverbed; (4) Mirra Andreeva wins the French Open.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-07.mp3" length="4743880" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-07.mp3</guid>
-      <pubDate>Sun, 07 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
