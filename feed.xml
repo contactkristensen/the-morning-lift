@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 29 Aug 2026 07:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:25:26 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, August 30, 2026</title>
+      <description>Four positive stories to start your morning: (1) Chinook salmon reclaim 88% of their lost Klamath range in two seasons; (2) FDA approves the first-ever therapy for glycogen storage disease type Ia; (3) AI finds a cheap recipe for 3D-printing a NASA rocket alloy in 40 experiments; (4) U.S. wins wheelchair rugby world title for the first time since 2010.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Chinook salmon reclaim 88% of their lost Klamath range in two seasons; (2) FDA approves the first-ever therapy for glycogen storage disease type Ia; (3) AI finds a cheap recipe for 3D-printing a NASA rocket alloy in 40 experiments; (4) U.S. wins wheelchair rugby world title for the first time since 2010.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-30.mp3" length="6165776" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-30.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>06:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, August 29, 2026</title>
       <description>Four positive stories to start your morning: (1) NASA's Roman Space Telescope launches tomorrow with a camera a hundred times wider than Hubble's; (2) An 11,000-year-old sculpture of a human riding a leopard, the first of its kind ever found; (3) Batteries have broken solar's daylight-only limit; (4) A desert plant's survival sugar just made a vaccine that doesn't need a fridge.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-09.mp3</guid>
       <pubDate>Tue, 09 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:45</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Monday, June 8, 2026</title>
-      <description>Four positive stories to start your morning: (1) Ocean protection crosses 10%; (2) Europe's largest 3D-printed affordable apartment building; (3) LEGO Foundation pledges $97M to the IRC for kids in conflict zones; (4) Two molecules repaired nerve damage in MS models.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Ocean protection crosses 10%; (2) Europe's largest 3D-printed affordable apartment building; (3) LEGO Foundation pledges $97M to the IRC for kids in conflict zones; (4) Two molecules repaired nerve damage in MS models.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-08.mp3" length="4666976" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-08.mp3</guid>
-      <pubDate>Mon, 08 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
