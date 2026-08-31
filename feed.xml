@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 30 Aug 2026 12:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:58:34 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, August 31, 2026</title>
+      <description>Four positive stories to start your morning: (1) Two hurdles world records fall in one night in Zurich; (2) Light-activated eye drops restore visually guided behavior in blind mice; (3) Europe's Right to Repair directive takes effect; (4) Gravity survey finds a hidden ice reservoir under a Utah rubble slope.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Two hurdles world records fall in one night in Zurich; (2) Light-activated eye drops restore visually guided behavior in blind mice; (3) Europe's Right to Repair directive takes effect; (4) Gravity survey finds a hidden ice reservoir under a Utah rubble slope.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-08-31.mp3" length="5053586" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-08-31.mp3</guid>
+      <pubDate>Mon, 31 Aug 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, August 30, 2026</title>
       <description>Four positive stories to start your morning: (1) Chinook salmon reclaim 88% of their lost Klamath range in two seasons; (2) FDA approves the first-ever therapy for glycogen storage disease type Ia; (3) AI finds a cheap recipe for 3D-printing a NASA rocket alloy in 40 experiments; (4) U.S. wins wheelchair rugby world title for the first time since 2010.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-10.mp3</guid>
       <pubDate>Wed, 10 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, June 9, 2026</title>
-      <description>Four positive stories to start your morning: (1) AI-designed universal coronavirus vaccine clears first human trial; (2) Low-temperature hydrogen catalyst cuts cost; (3) "House Made of Dawn" — largest Native American art survey at the New-York Historical — Culture/Museums; (4) Three Stanley Cup Final records in one game.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) AI-designed universal coronavirus vaccine clears first human trial; (2) Low-temperature hydrogen catalyst cuts cost; (3) "House Made of Dawn" — largest Native American art survey at the New-York Historical — Culture/Museums; (4) Three Stanley Cup Final records in one game.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-09.mp3" length="4571263" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-09.mp3</guid>
-      <pubDate>Tue, 09 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
