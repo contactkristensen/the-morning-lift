@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 31 Aug 2026 07:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:18:30 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, September 1, 2026</title>
+      <description>Four positive stories to start your morning: (1) A protein frogs make naturally is the first thing to reverse red-tide poisoning; (2) London surgeons remove a brain tumour with AI guiding them in real time; (3) A toilet designed for astronauts is now serving 20,000 households without plumbing; (4) Nine countries pool their data to fix a research gap in women's sport.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A protein frogs make naturally is the first thing to reverse red-tide poisoning; (2) London surgeons remove a brain tumour with AI guiding them in real time; (3) A toilet designed for astronauts is now serving 20,000 households without plumbing; (4) Nine countries pool their data to fix a research gap in women's sport.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-01.mp3" length="5159748" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-01.mp3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, August 31, 2026</title>
       <description>Four positive stories to start your morning: (1) Two hurdles world records fall in one night in Zurich; (2) Light-activated eye drops restore visually guided behavior in blind mice; (3) Europe's Right to Repair directive takes effect; (4) Gravity survey finds a hidden ice reservoir under a Utah rubble slope.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-11.mp3</guid>
       <pubDate>Thu, 11 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, June 10, 2026</title>
-      <description>Four positive stories to start your morning: (1) Cobalt's hidden topological states; (2) Floreana giant tortoise returns; (3) Four first-time World Cup nations; (4) China's electric heavy trucks tip.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Cobalt's hidden topological states; (2) Floreana giant tortoise returns; (3) Four first-time World Cup nations; (4) China's electric heavy trucks tip.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-10.mp3" length="5094966" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-10.mp3</guid>
-      <pubDate>Wed, 10 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
