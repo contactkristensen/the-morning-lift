@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 01 Sep 2026 07:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:08:37 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, September 2, 2026</title>
+      <description>Four positive stories to start your morning: (1) The FDA approved the first targeted therapy ever cleared for metastatic pancreatic cancer; (2) Thirty years in, Dolly Parton's Imagination Library finally has hard evidence it works; (3) California became the first state to regulate the efficiency of replacement tires; (4) A 270,000-square-mile ocean reserve around Easter Island would be run by the Rapa Nui, six votes to five.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) The FDA approved the first targeted therapy ever cleared for metastatic pancreatic cancer; (2) Thirty years in, Dolly Parton's Imagination Library finally has hard evidence it works; (3) California became the first state to regulate the efficiency of replacement tires; (4) A 270,000-square-mile ocean reserve around Easter Island would be run by the Rapa Nui, six votes to five.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-02.mp3" length="4581711" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-02.mp3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, September 1, 2026</title>
       <description>Four positive stories to start your morning: (1) A protein frogs make naturally is the first thing to reverse red-tide poisoning; (2) London surgeons remove a brain tumour with AI guiding them in real time; (3) A toilet designed for astronauts is now serving 20,000 households without plumbing; (4) Nine countries pool their data to fix a research gap in women's sport.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-12.mp3</guid>
       <pubDate>Fri, 12 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, June 11, 2026</title>
-      <description>Four positive stories to start your morning: (1) Sudan &amp; South Sudan eliminate maternal &amp; neonatal tetanus; (2) Wheelchair half-marathon records in Chicago (Romanchuk &amp; McFadden) — Sports/Para-athletics; (3) EXCAP home-exercise program reduces "chemo brain"; (4) 40-million-year-old ant revealed in Goethe's amber via synchrotron CT.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Sudan &amp; South Sudan eliminate maternal &amp; neonatal tetanus; (2) Wheelchair half-marathon records in Chicago (Romanchuk &amp; McFadden) — Sports/Para-athletics; (3) EXCAP home-exercise program reduces "chemo brain"; (4) 40-million-year-old ant revealed in Goethe's amber via synchrotron CT.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-11.mp3" length="4613476" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-11.mp3</guid>
-      <pubDate>Thu, 11 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
