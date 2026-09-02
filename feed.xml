@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 02 Sep 2026 07:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:11:10 +0000</lastBuildDate>
+    <item>
+      <title>Mid Week Lift — Wednesday, September 2, 2026</title>
+      <description>A midweek bonus from The Morning Lift: “Science / Paleontology — Kank australis, new heron-niche raptor dinosaur from Patagonia” — one of our most-loved stories, re-read for you. Originally from our June 1 episode. Hear a new lift every morning at themorninglift.org.</description>
+      <itunes:summary>A midweek bonus from The Morning Lift: “Science / Paleontology — Kank australis, new heron-niche raptor dinosaur from Patagonia” — one of our most-loved stories, re-read for you. Originally from our June 1 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-09-02.mp3" length="1688599" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-09-02.mp3</guid>
+      <pubDate>Wed, 02 Sep 2026 11:30:00 -0500</pubDate>
+      <itunes:duration>01:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Wednesday, September 2, 2026</title>
       <description>Four positive stories to start your morning: (1) The FDA approved the first targeted therapy ever cleared for metastatic pancreatic cancer; (2) Thirty years in, Dolly Parton's Imagination Library finally has hard evidence it works; (3) California became the first state to regulate the efficiency of replacement tires; (4) A 270,000-square-mile ocean reserve around Easter Island would be run by the Rapa Nui, six votes to five.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-13.mp3</guid>
       <pubDate>Sat, 13 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, June 12, 2026</title>
-      <description>Four positive stories to start your morning: (1) LEAD; (2) Innovation/Aerospace; (3) Community/Housing (underused-category anchor); (4) Health/Endocrinology.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) LEAD; (2) Innovation/Aerospace; (3) Community/Housing (underused-category anchor); (4) Health/Endocrinology.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-12.mp3" length="4510240" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-12.mp3</guid>
-      <pubDate>Fri, 12 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
