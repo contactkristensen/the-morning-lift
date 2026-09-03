@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 02 Sep 2026 17:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:48:00 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Thursday, September 3, 2026</title>
+      <description>Four positive stories to start your morning: (1) FDA approves the first-ever treatment for warm autoimmune hemolytic anemia; (2) A record 40,000-plus field runs the Sydney Marathon in its second year as a World Marathon Major; (3) London's Natural History Museum reopens a gallery closed to the public since 1943; (4) Chicago opens a grant program aimed at the corner stores that are already the food system.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) FDA approves the first-ever treatment for warm autoimmune hemolytic anemia; (2) A record 40,000-plus field runs the Sydney Marathon in its second year as a World Marathon Major; (3) London's Natural History Museum reopens a gallery closed to the public since 1943; (4) Chicago opens a grant program aimed at the corner stores that are already the food system.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-03.mp3" length="4936976" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-03.mp3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mid Week Lift — Wednesday, September 2, 2026</title>
       <description>A midweek bonus from The Morning Lift: “Science / Paleontology — Kank australis, new heron-niche raptor dinosaur from Patagonia” — one of our most-loved stories, re-read for you. Originally from our June 1 episode. Hear a new lift every morning at themorninglift.org.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-14.mp3</guid>
       <pubDate>Sun, 14 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, June 13, 2026</title>
-      <description>Four positive stories to start your morning: (1) A power company replanted nearly half a million trees — and 91% survived; (2) For the first full month on record, U.S. solar out-produced coal; (3) A teenager won UK Young Engineer of the Year for a medical-delivery drone; (4) NASA's Roman telescope may launch early — and could find 100,000 new worlds.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) A power company replanted nearly half a million trees — and 91% survived; (2) For the first full month on record, U.S. solar out-produced coal; (3) A teenager won UK Young Engineer of the Year for a medical-delivery drone; (4) NASA's Roman telescope may launch early — and could find 100,000 new worlds.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-13.mp3" length="4819530" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-13.mp3</guid>
-      <pubDate>Sat, 13 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
