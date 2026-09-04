@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 04 Sep 2026 06:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:11:35 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Friday, September 4, 2026</title>
+      <description>Four positive stories to start your morning: (1) FBI data shows the sharpest single-year fall in US violent crime ever recorded; (2) Physicists entangle distant qubits with no measurement and no active control; (3) First Przewalski's horse born on the central Kazakh steppe in 200 years; (4) A hundred-plus restaurants in a dozen-plus countries ran a Pay What You Can day.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) FBI data shows the sharpest single-year fall in US violent crime ever recorded; (2) Physicists entangle distant qubits with no measurement and no active control; (3) First Przewalski's horse born on the central Kazakh steppe in 200 years; (4) A hundred-plus restaurants in a dozen-plus countries ran a Pay What You Can day.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-04.mp3" length="5034361" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-04.mp3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Thursday, September 3, 2026</title>
       <description>Four positive stories to start your morning: (1) FDA approves the first-ever treatment for warm autoimmune hemolytic anemia; (2) A record 40,000-plus field runs the Sydney Marathon in its second year as a World Marathon Major; (3) London's Natural History Museum reopens a gallery closed to the public since 1943; (4) Chicago opens a grant program aimed at the corner stores that are already the food system.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-15.mp3</guid>
       <pubDate>Mon, 15 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, June 14, 2026</title>
-      <description>Four positive stories to start your morning: (1) LEAD — West Virginia &amp; Troy reach the College World Series for the first time; (2) Tribeca Festival's record-breaking 25th edition closes; (3) Stanford blocks a "gerozyme" and regrows knee cartilage; (4) 30-year study: ~90–120 min/week of strength training is the high-value zone.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) LEAD — West Virginia &amp; Troy reach the College World Series for the first time; (2) Tribeca Festival's record-breaking 25th edition closes; (3) Stanford blocks a "gerozyme" and regrows knee cartilage; (4) 30-year study: ~90–120 min/week of strength training is the high-value zone.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-14.mp3" length="5206561" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-14.mp3</guid>
-      <pubDate>Sun, 14 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
