@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 04 Sep 2026 12:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:50:07 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, September 5, 2026</title>
+      <description>Four positive stories to start your morning: (1) Children inside London's low-emission zone are growing measurably bigger lungs; (2) Uganda's Ebola outbreak is over, closed without a vaccine; (3) US high school sports hit an all-time participation record, driven almost entirely by girls; (4) A 35-inch robot is surveying sidewalks in five US cities so planners know which to fix.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Children inside London's low-emission zone are growing measurably bigger lungs; (2) Uganda's Ebola outbreak is over, closed without a vaccine; (3) US high school sports hit an all-time participation record, driven almost entirely by girls; (4) A 35-inch robot is surveying sidewalks in five US cities so planners know which to fix.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-05.mp3" length="5211157" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-05.mp3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, September 4, 2026</title>
       <description>Four positive stories to start your morning: (1) FBI data shows the sharpest single-year fall in US violent crime ever recorded; (2) Physicists entangle distant qubits with no measurement and no active control; (3) First Przewalski's horse born on the central Kazakh steppe in 200 years; (4) A hundred-plus restaurants in a dozen-plus countries ran a Pay What You Can day.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-16.mp3</guid>
       <pubDate>Tue, 16 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Monday, June 15, 2026</title>
-      <description>Four positive stories to start your morning: (1) Boston extends its fare-free bus program — and the data explains why; (2) Delhi records its cleanest Jan–May air in eight years; (3) "POMbranes" — a filter with perfectly uniform one-nanometer pores; (4) Georgia's women win a second straight NCAA outdoor track title.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Boston extends its fare-free bus program — and the data explains why; (2) Delhi records its cleanest Jan–May air in eight years; (3) "POMbranes" — a filter with perfectly uniform one-nanometer pores; (4) Georgia's women win a second straight NCAA outdoor track title.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-15.mp3" length="4763106" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-15.mp3</guid>
-      <pubDate>Mon, 15 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
