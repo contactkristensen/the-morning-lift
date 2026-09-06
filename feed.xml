@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 05 Sep 2026 07:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:39:55 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, September 6, 2026</title>
+      <description>Four positive stories to start your morning: (1) A Milwaukee landlord found a Picasso stolen eight years ago hanging behind a door; (2) Hundreds of sea shanty bands have formed across the UK, and the audiences keep getting younger; (3) Twenty-eight farmers set slug traps for three years and built a map that halves pesticide use; (4) A near-dead sea turtle found on a Welsh beach has been flown 5,000 miles home to Texas.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A Milwaukee landlord found a Picasso stolen eight years ago hanging behind a door; (2) Hundreds of sea shanty bands have formed across the UK, and the audiences keep getting younger; (3) Twenty-eight farmers set slug traps for three years and built a map that halves pesticide use; (4) A near-dead sea turtle found on a Welsh beach has been flown 5,000 miles home to Texas.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-06.mp3" length="5512505" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-06.mp3</guid>
+      <pubDate>Sun, 06 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, September 5, 2026</title>
       <description>Four positive stories to start your morning: (1) Children inside London's low-emission zone are growing measurably bigger lungs; (2) Uganda's Ebola outbreak is over, closed without a vaccine; (3) US high school sports hit an all-time participation record, driven almost entirely by girls; (4) A 35-inch robot is surveying sidewalks in five US cities so planners know which to fix.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-17.mp3</guid>
       <pubDate>Wed, 17 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, June 16, 2026</title>
-      <description>Four positive stories to start your morning: (1) Children's reading-for-pleasure rises for the first time since 2021; (2) JUNO neutrino observatory publishes its first physics result; (3) Global mangrove forests rebound — net decline reversing — Environment/Conservation; (4) Angkor Thom's 800-year-old water system uncovered — and slated for restoration — Culture/Archaeology.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Children's reading-for-pleasure rises for the first time since 2021; (2) JUNO neutrino observatory publishes its first physics result; (3) Global mangrove forests rebound — net decline reversing — Environment/Conservation; (4) Angkor Thom's 800-year-old water system uncovered — and slated for restoration — Culture/Archaeology.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-16.mp3" length="4961218" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-16.mp3</guid>
-      <pubDate>Tue, 16 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
