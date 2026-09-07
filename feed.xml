@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 06 Sep 2026 07:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:44:59 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, September 7, 2026</title>
+      <description>Four positive stories to start your morning: (1) Software reads an ordinary ECG and finds heart disease no cardiologist can see; (2) Half a million more English children became eligible for a free school meal; (3) Three million pounds of restaurant oyster shells are rebuilding New York Harbor; (4) The blackbird has the most pleasant song in the bird world, and the acoustics explain why.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Software reads an ordinary ECG and finds heart disease no cardiologist can see; (2) Half a million more English children became eligible for a free school meal; (3) Three million pounds of restaurant oyster shells are rebuilding New York Harbor; (4) The blackbird has the most pleasant song in the bird world, and the acoustics explain why.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-07.mp3" length="4691634" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-07.mp3</guid>
+      <pubDate>Mon, 07 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, September 6, 2026</title>
       <description>Four positive stories to start your morning: (1) A Milwaukee landlord found a Picasso stolen eight years ago hanging behind a door; (2) Hundreds of sea shanty bands have formed across the UK, and the audiences keep getting younger; (3) Twenty-eight farmers set slug traps for three years and built a map that halves pesticide use; (4) A near-dead sea turtle found on a Welsh beach has been flown 5,000 miles home to Texas.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-18.mp3</guid>
       <pubDate>Thu, 18 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, June 17, 2026</title>
-      <description>Four positive stories to start your morning: (1) A legendary golden "sea silk," lost for 2,000 years, has been recreated; (2) Battery-free artificial photosynthesis that regulates itself; (3) A single chip that generates, steers, and reads light; (4) Parrots may actually use names to identify individuals.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) A legendary golden "sea silk," lost for 2,000 years, has been recreated; (2) Battery-free artificial photosynthesis that regulates itself; (3) A single chip that generates, steers, and reads light; (4) Parrots may actually use names to identify individuals.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-17.mp3" length="4880553" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-17.mp3</guid>
-      <pubDate>Wed, 17 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
