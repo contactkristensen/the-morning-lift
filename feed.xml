@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 09 Sep 2026 07:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:38:52 +0000</lastBuildDate>
+    <item>
+      <title>Mid Week Lift — Wednesday, September 9, 2026</title>
+      <description>A midweek bonus from The Morning Lift: “Zero-waste solar desalination — University of Rochester” — one of our most-loved stories, re-read for you. Originally from our June 2 episode. Hear a new lift every morning at themorninglift.org.</description>
+      <itunes:summary>A midweek bonus from The Morning Lift: “Zero-waste solar desalination — University of Rochester” — one of our most-loved stories, re-read for you. Originally from our June 2 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-09-09.mp3" length="1599991" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-09-09.mp3</guid>
+      <pubDate>Wed, 09 Sep 2026 11:30:00 -0500</pubDate>
+      <itunes:duration>01:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Wednesday, September 9, 2026</title>
       <description>Four positive stories to start your morning: (1) A natural enzyme just read an eight-letter DNA alphabet without being redesigned; (2) Timor-Leste eliminated trachoma, clearing the world's leading infectious cause of blindness from all of South-East Asia; (3) Six countries made their U-20 Women's World Cup debut as the tournament opened in Poland; (4) Plug-in solar panels went on sale in Britain for the first time.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-21.mp3</guid>
       <pubDate>Sun, 21 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, June 20, 2026</title>
-      <description>Four positive stories to start your morning: (1) First in-body CRISPR therapy hits Phase 3 in hereditary angioedema; (2) Mammalian regeneration "switched off, not lost" — two-step FGF2→BMP2 regrows joint tissue; (3) Genicular artery embolization delivers 12 months of knee-arthritis relief — no surgery; (4) "Lucy's hunter": new fossil crocodile shared the riverbanks with our ancestors.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) First in-body CRISPR therapy hits Phase 3 in hereditary angioedema; (2) Mammalian regeneration "switched off, not lost" — two-step FGF2→BMP2 regrows joint tissue; (3) Genicular artery embolization delivers 12 months of knee-arthritis relief — no surgery; (4) "Lucy's hunter": new fossil crocodile shared the riverbanks with our ancestors.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-20.mp3" length="4928618" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-20.mp3</guid>
-      <pubDate>Sat, 20 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
