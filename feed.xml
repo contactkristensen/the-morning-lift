@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 08 Sep 2026 07:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:54:03 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, September 9, 2026</title>
+      <description>Four positive stories to start your morning: (1) A natural enzyme just read an eight-letter DNA alphabet without being redesigned; (2) Timor-Leste eliminated trachoma, clearing the world's leading infectious cause of blindness from all of South-East Asia; (3) Six countries made their U-20 Women's World Cup debut as the tournament opened in Poland; (4) Plug-in solar panels went on sale in Britain for the first time.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A natural enzyme just read an eight-letter DNA alphabet without being redesigned; (2) Timor-Leste eliminated trachoma, clearing the world's leading infectious cause of blindness from all of South-East Asia; (3) Six countries made their U-20 Women's World Cup debut as the tournament opened in Poland; (4) Plug-in solar panels went on sale in Britain for the first time.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-09.mp3" length="5240832" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-09.mp3</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, September 8, 2026</title>
       <description>Four positive stories to start your morning: (1) A single unexplained flash under South Dakota is physics' best dark matter hint yet; (2) Erin Brooks opened the Fiji Pro with a perfect ten and won the whole event; (3) Harvard engineers knitted a fabric that snaps between shapes and stays there; (4) Mozambique's worst flood in living memory killed nobody, and a drone class is why.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-20.mp3</guid>
       <pubDate>Sat, 20 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, June 19, 2026</title>
-      <description>Four positive stories to start your morning: (1) A real weakness found in PFAS "forever chemicals"; (2) A fixable cause of fading cellular energy; (3) A durable middle path for knee osteoarthritis; (4) Housing built over a food pantry and a bus.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) A real weakness found in PFAS "forever chemicals"; (2) A fixable cause of fading cellular energy; (3) A durable middle path for knee osteoarthritis; (4) Housing built over a food pantry and a bus.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-19.mp3" length="4943664" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-19.mp3</guid>
-      <pubDate>Fri, 19 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
