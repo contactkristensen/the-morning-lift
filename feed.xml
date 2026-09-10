@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 09 Sep 2026 16:38:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:41:53 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Thursday, September 10, 2026</title>
+      <description>Four positive stories to start your morning: (1) Bats carry two separate sets of antibody genes — an arrangement never before seen in a mammal — Science/Immunology; (2) Coral probiotics work in open water for the first time, and the dead version works too; (3) A Kerala house cools itself with clay lattice, laterite and a north-south axis; (4) Sweden and Finland run trains across their northern border again after ~30 years.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Bats carry two separate sets of antibody genes — an arrangement never before seen in a mammal — Science/Immunology; (2) Coral probiotics work in open water for the first time, and the dead version works too; (3) A Kerala house cools itself with clay lattice, laterite and a north-south axis; (4) Sweden and Finland run trains across their northern border again after ~30 years.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-10.mp3" length="5163510" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-10.mp3</guid>
+      <pubDate>Thu, 10 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mid Week Lift — Wednesday, September 9, 2026</title>
       <description>A midweek bonus from The Morning Lift: “Zero-waste solar desalination — University of Rochester” — one of our most-loved stories, re-read for you. Originally from our June 2 episode. Hear a new lift every morning at themorninglift.org.</description>
@@ -904,16 +914,6 @@
       <enclosure url="https://themorninglift.org/TML_2026-06-22.mp3" length="4908555" type="audio/mpeg"/>
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-22.mp3</guid>
       <pubDate>Mon, 22 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, June 21, 2026</title>
-      <description>Four positive stories to start your morning: (1) North Atlantic right whales record best calving season since 2009; (2) Make Music Day fills streets in 1,000+ cities; (3) Food-rescue groups close the summer school-meal gap; (4) Study: the brain can measurably improve at any age.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) North Atlantic right whales record best calving season since 2009; (2) Make Music Day fills streets in 1,000+ cities; (3) Food-rescue groups close the summer school-meal gap; (4) Study: the brain can measurably improve at any age.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-21.mp3" length="4899778" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-21.mp3</guid>
-      <pubDate>Sun, 21 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
