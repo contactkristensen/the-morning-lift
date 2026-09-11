@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 10 Sep 2026 07:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:47:33 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Friday, September 11, 2026</title>
+      <description>Four positive stories to start your morning: (1) A 22-year-old with Down syndrome got certified to teach barre and led a class of sixty; (2) A urine test caught 92% of bladder cancers, and could replace a camera for most patients; (3) Turkmenistan plugged eight of its largest methane leaks after satellites handed over the coordinates; (4) MIT engineers built liver tissue you can deliver with a syringe.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A 22-year-old with Down syndrome got certified to teach barre and led a class of sixty; (2) A urine test caught 92% of bladder cancers, and could replace a camera for most patients; (3) Turkmenistan plugged eight of its largest methane leaks after satellites handed over the coordinates; (4) MIT engineers built liver tissue you can deliver with a syringe.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-11.mp3" length="4819530" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-11.mp3</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Thursday, September 10, 2026</title>
       <description>Four positive stories to start your morning: (1) Bats carry two separate sets of antibody genes — an arrangement never before seen in a mammal — Science/Immunology; (2) Coral probiotics work in open water for the first time, and the dead version works too; (3) A Kerala house cools itself with clay lattice, laterite and a north-south axis; (4) Sweden and Finland run trains across their northern border again after ~30 years.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-23.mp3</guid>
       <pubDate>Tue, 23 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Monday, June 22, 2026</title>
-      <description>Four positive stories to start your morning: (1) Kyrgyzstan formalizes a "climate-ready" wildlife corridor for snow leopards; (2) The Smithsonian's Arts and Industries Building reopens after 22 years; (3) Researchers 3D-print architectural panels from yeast; (4) Workforce Pell — biggest federal college-aid expansion in 50 years — launches.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Kyrgyzstan formalizes a "climate-ready" wildlife corridor for snow leopards; (2) The Smithsonian's Arts and Industries Building reopens after 22 years; (3) Researchers 3D-print architectural panels from yeast; (4) Workforce Pell — biggest federal college-aid expansion in 50 years — launches.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-22.mp3" length="4908555" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-22.mp3</guid>
-      <pubDate>Mon, 22 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
