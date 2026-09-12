@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 11 Sep 2026 07:47:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:07:12 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, September 12, 2026</title>
+      <description>Four positive stories to start your morning: (1) Denmark's largest Viking Age silver hoard turns up under a back garden; (2) Nina Simone's childhood home comes out the far side of a full restoration; (3) China's solar capacity passes its coal capacity for the first time; (4) BepiColombo begins its arrival at Mercury, carrying a question about the Moon.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Denmark's largest Viking Age silver hoard turns up under a back garden; (2) Nina Simone's childhood home comes out the far side of a full restoration; (3) China's solar capacity passes its coal capacity for the first time; (4) BepiColombo begins its arrival at Mercury, carrying a question about the Moon.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-12.mp3" length="5372907" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-12.mp3</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, September 11, 2026</title>
       <description>Four positive stories to start your morning: (1) A 22-year-old with Down syndrome got certified to teach barre and led a class of sixty; (2) A urine test caught 92% of bladder cancers, and could replace a camera for most patients; (3) Turkmenistan plugged eight of its largest methane leaks after satellites handed over the coordinates; (4) MIT engineers built liver tissue you can deliver with a syringe.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-24.mp3</guid>
       <pubDate>Wed, 24 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, June 23, 2026</title>
-      <description>Four positive stories to start your morning: (1) North Carolina and Oklahoma meet in a first-title College World Series finals; (2) Cornell's electrochemical bath revives spent EV batteries to ~95% capacity; (3) Gallup finds Americans see far more everyday kindness than they assume; (4) The Utah Arts Festival survives financial trouble to reach its 50th year.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) North Carolina and Oklahoma meet in a first-title College World Series finals; (2) Cornell's electrochemical bath revives spent EV batteries to ~95% capacity; (3) Gallup finds Americans see far more everyday kindness than they assume; (4) The Utah Arts Festival survives financial trouble to reach its 50th year.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-23.mp3" length="4930290" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-23.mp3</guid>
-      <pubDate>Tue, 23 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
