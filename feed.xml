@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 12 Sep 2026 07:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:43:20 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, September 13, 2026</title>
+      <description>Four positive stories to start your morning: (1) An arthritis drug regrew hair in more than half of a 1,400-person alopecia trial; (2) Memphis broke ground on Orange Mound's first community land trust home; (3) The Lucas Museum of Narrative Art opens September 22 in Los Angeles; (4) Washington's I-90 wildlife overpass logged its 10,000th crossing with near-zero roadkill.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) An arthritis drug regrew hair in more than half of a 1,400-person alopecia trial; (2) Memphis broke ground on Orange Mound's first community land trust home; (3) The Lucas Museum of Narrative Art opens September 22 in Los Angeles; (4) Washington's I-90 wildlife overpass logged its 10,000th crossing with near-zero roadkill.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-13.mp3" length="5226204" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-13.mp3</guid>
+      <pubDate>Sun, 13 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, September 12, 2026</title>
       <description>Four positive stories to start your morning: (1) Denmark's largest Viking Age silver hoard turns up under a back garden; (2) Nina Simone's childhood home comes out the far side of a full restoration; (3) China's solar capacity passes its coal capacity for the first time; (4) BepiColombo begins its arrival at Mercury, carrying a question about the Moon.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-06-24.mp3</guid>
       <pubDate>Wed, 24 Jun 2026 11:30:00 -0500</pubDate>
       <itunes:duration>01:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, June 24, 2026</title>
-      <description>Four positive stories to start your morning: (1) Carolina Hurricanes win their second Stanley Cup; ~180,000 pack Raleigh for the city's largest-ever parade; (2) Smithsonian's Arts and Industries Building reopens to the public for the first time since 2004; (3) A sodium-ion battery matches key benchmarks of Tesla's lithium cells; (4) Astronomers catch an early-universe quasar flickering — and find a modern-looking disk.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Carolina Hurricanes win their second Stanley Cup; ~180,000 pack Raleigh for the city's largest-ever parade; (2) Smithsonian's Arts and Industries Building reopens to the public for the first time since 2004; (3) A sodium-ion battery matches key benchmarks of Tesla's lithium cells; (4) Astronomers catch an early-universe quasar flickering — and find a modern-looking disk.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-24.mp3" length="4775227" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-24.mp3</guid>
-      <pubDate>Wed, 24 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
