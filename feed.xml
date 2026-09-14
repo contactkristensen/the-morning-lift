@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 13 Sep 2026 07:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:51:02 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, September 14, 2026</title>
+      <description>Four positive stories to start your morning: (1) A 91-year-old just became the oldest person ever to finish the Appalachian Trail; (2) The first big trial aimed at stopping Alzheimer's before symptoms start began screening; (3) Parents who agree together to delay a child's first smartphone measurably improved child mental health; (4) Germany reached a Women's Basketball World Cup semifinal for the first time in its history.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A 91-year-old just became the oldest person ever to finish the Appalachian Trail; (2) The first big trial aimed at stopping Alzheimer's before symptoms start began screening; (3) Parents who agree together to delay a child's first smartphone measurably improved child mental health; (4) Germany reached a Women's Basketball World Cup semifinal for the first time in its history.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-14.mp3" length="4938230" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-14.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, September 13, 2026</title>
       <description>Four positive stories to start your morning: (1) An arthritis drug regrew hair in more than half of a 1,400-person alopecia trial; (2) Memphis broke ground on Orange Mound's first community land trust home; (3) The Lucas Museum of Narrative Art opens September 22 in Los Angeles; (4) Washington's I-90 wildlife overpass logged its 10,000th crossing with near-zero roadkill.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-25.mp3</guid>
       <pubDate>Thu, 25 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mid Week Lift — Wednesday, June 24, 2026</title>
-      <description>A midweek bonus from The Morning Lift: “NASA fires up most powerful electric thruster ever tested in the US — a step toward crewed Mars” — one of our most-loved stories, re-read for you. Originally from our May 14 episode. Hear a new lift every morning at themorninglift.org.</description>
-      <itunes:summary>A midweek bonus from The Morning Lift: “NASA fires up most powerful electric thruster ever tested in the US — a step toward crewed Mars” — one of our most-loved stories, re-read for you. Originally from our May 14 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-06-24.mp3" length="1304912" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-06-24.mp3</guid>
-      <pubDate>Wed, 24 Jun 2026 11:30:00 -0500</pubDate>
-      <itunes:duration>01:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
