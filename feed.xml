@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 14 Sep 2026 11:51:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:10:45 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, September 15, 2026</title>
+      <description>Four positive stories to start your morning: (1) Human hearts grow new muscle cells after a heart attack; (2) A room-temperature nanolaser that could halve a computer's energy use; (3) Track and field's first Ultimate Championship compresses the sport into three nights; (4) The UN votes to replace the Mercator world map with Equal Earth.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Human hearts grow new muscle cells after a heart attack; (2) A room-temperature nanolaser that could halve a computer's energy use; (3) Track and field's first Ultimate Championship compresses the sport into three nights; (4) The UN votes to replace the Mercator world map with Equal Earth.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-15.mp3" length="5003849" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-15.mp3</guid>
+      <pubDate>Tue, 15 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, September 14, 2026</title>
       <description>Four positive stories to start your morning: (1) A 91-year-old just became the oldest person ever to finish the Appalachian Trail; (2) The first big trial aimed at stopping Alzheimer's before symptoms start began screening; (3) Parents who agree together to delay a child's first smartphone measurably improved child mental health; (4) Germany reached a Women's Basketball World Cup semifinal for the first time in its history.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-26.mp3</guid>
       <pubDate>Fri, 26 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, June 25, 2026</title>
-      <description>Four positive stories to start your morning: (1) Cape Verde's undefeated World Cup debut; (2) Humpback whale super-groups off Antarctica; (3) AI-designed rare-earth-free magnets; (4) UN marks 20 years of disability-rights law.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Cape Verde's undefeated World Cup debut; (2) Humpback whale super-groups off Antarctica; (3) AI-designed rare-earth-free magnets; (4) UN marks 20 years of disability-rights law.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-25.mp3" length="4827890" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-25.mp3</guid>
-      <pubDate>Thu, 25 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
