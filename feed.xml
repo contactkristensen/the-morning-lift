@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 16 Sep 2026 07:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:51:09 +0000</lastBuildDate>
+    <item>
+      <title>Mid Week Lift — Wednesday, September 16, 2026</title>
+      <description>A midweek bonus from The Morning Lift: “ASKAP J1745 — the Rosetta Stone for long-period radio transients” — one of our most-loved stories, re-read for you. Originally from our June 4 episode. Hear a new lift every morning at themorninglift.org.</description>
+      <itunes:summary>A midweek bonus from The Morning Lift: “ASKAP J1745 — the Rosetta Stone for long-period radio transients” — one of our most-loved stories, re-read for you. Originally from our June 4 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-09-16.mp3" length="1655162" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-09-16.mp3</guid>
+      <pubDate>Wed, 16 Sep 2026 11:30:00 -0500</pubDate>
+      <itunes:duration>01:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Wednesday, September 16, 2026</title>
       <description>Four positive stories to start your morning: (1) FDA takes up the first optogenetic therapy for retinitis pigmentosa; (2) Kyoto team makes brilliant white with no pigment and no PFAS; (3) Best feather from the age of dinosaurs found inside fossilized droppings; (4) California's first foster village built to keep siblings together opens in Palmdale.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-28.mp3</guid>
       <pubDate>Sun, 28 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, June 27, 2026</title>
-      <description>Four positive stories to start your morning: (1) Scotland fan finishes 3,000-mile charity walk across America for mental health; (2) Kew digitizes its entire 7.4-million-specimen herbarium and puts it online for free; (3) Essex firefighters save 5-year-old's fingertips; she returns to thank them; (4) Ancient DNA shows the last Neanderthals weren't doomed by inbreeding.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Scotland fan finishes 3,000-mile charity walk across America for mental health; (2) Kew digitizes its entire 7.4-million-specimen herbarium and puts it online for free; (3) Essex firefighters save 5-year-old's fingertips; she returns to thank them; (4) Ancient DNA shows the last Neanderthals weren't doomed by inbreeding.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-27.mp3" length="4952441" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-27.mp3</guid>
-      <pubDate>Sat, 27 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
