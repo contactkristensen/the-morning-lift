@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 15 Sep 2026 07:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:46:16 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, September 16, 2026</title>
+      <description>Four positive stories to start your morning: (1) FDA takes up the first optogenetic therapy for retinitis pigmentosa; (2) Kyoto team makes brilliant white with no pigment and no PFAS; (3) Best feather from the age of dinosaurs found inside fossilized droppings; (4) California's first foster village built to keep siblings together opens in Palmdale.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) FDA takes up the first optogenetic therapy for retinitis pigmentosa; (2) Kyoto team makes brilliant white with no pigment and no PFAS; (3) Best feather from the age of dinosaurs found inside fossilized droppings; (4) California's first foster village built to keep siblings together opens in Palmdale.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-16.mp3" length="4548692" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-16.mp3</guid>
+      <pubDate>Wed, 16 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, September 15, 2026</title>
       <description>Four positive stories to start your morning: (1) Human hearts grow new muscle cells after a heart attack; (2) A room-temperature nanolaser that could halve a computer's energy use; (3) Track and field's first Ultimate Championship compresses the sport into three nights; (4) The UN votes to replace the Mercator world map with Equal Earth.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-27.mp3</guid>
       <pubDate>Sat, 27 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, June 26, 2026</title>
-      <description>Four positive stories to start your morning: (1) A retinal implant restores reading vision in advanced macular degeneration; (2) AARP Community Challenge funds a record 750 quick-action grants; (3) A die stamp found in Kent rewrites the Sutton Hoo helmet's origin; (4) Honeybee "royal cribs": queens are made by their chamber, not just diet.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) A retinal implant restores reading vision in advanced macular degeneration; (2) AARP Community Challenge funds a record 750 quick-action grants; (3) A die stamp found in Kent rewrites the Sutton Hoo helmet's origin; (4) Honeybee "royal cribs": queens are made by their chamber, not just diet.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-26.mp3" length="5215338" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-26.mp3</guid>
-      <pubDate>Fri, 26 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
