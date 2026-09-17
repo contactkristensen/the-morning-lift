@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 16 Sep 2026 16:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:54:45 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Thursday, September 17, 2026</title>
+      <description>Four positive stories to start your morning: (1) Klamath Chinook reoccupied 88% of their historic range two years after the world's largest dam removal; (2) Kenyan startup builds a robotic hand that signs a teacher's lesson in real time; (3) First fully armless racing driver signs with Team BRIT, steering at 110 mph with his feet; (4) Roman emperor's private bath found inside a defensive tower in Serbia, in a layout never seen before.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Klamath Chinook reoccupied 88% of their historic range two years after the world's largest dam removal; (2) Kenyan startup builds a robotic hand that signs a teacher's lesson in real time; (3) First fully armless racing driver signs with Team BRIT, steering at 110 mph with his feet; (4) Roman emperor's private bath found inside a defensive tower in Serbia, in a layout never seen before.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-17.mp3" length="5183572" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-17.mp3</guid>
+      <pubDate>Thu, 17 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mid Week Lift — Wednesday, September 16, 2026</title>
       <description>A midweek bonus from The Morning Lift: “ASKAP J1745 — the Rosetta Stone for long-period radio transients” — one of our most-loved stories, re-read for you. Originally from our June 4 episode. Hear a new lift every morning at themorninglift.org.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-29.mp3</guid>
       <pubDate>Mon, 29 Jun 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, June 28, 2026</title>
-      <description>Four positive stories to start your morning: (1) HPV vaccine has "almost eliminated" cervical cancer in young women; (2) India halved its smoking rate this century; (3) Reintroduced beavers solved chronic flooding in west London; (4) Chilangas FC: blind women's football transforming lives in Mexico.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) HPV vaccine has "almost eliminated" cervical cancer in young women; (2) India halved its smoking rate this century; (3) Reintroduced beavers solved chronic flooding in west London; (4) Chilangas FC: blind women's football transforming lives in Mexico.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-28.mp3" length="5231220" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-28.mp3</guid>
-      <pubDate>Sun, 28 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
