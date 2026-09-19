@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 18 Sep 2026 07:45:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:50:52 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, September 19, 2026</title>
+      <description>Four positive stories to start your morning: (1) Mexico's door-to-door health workers logged 22.8 million home visits in a year; (2) China's coal generation has stalled across 17 of 26 provinces; (3) An unlooted Chimú funerary platform opened at Chan Chan, Peru; (4) London finished a ten-storey building carried entirely by load-bearing stone.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Mexico's door-to-door health workers logged 22.8 million home visits in a year; (2) China's coal generation has stalled across 17 of 26 provinces; (3) An unlooted Chimú funerary platform opened at Chan Chan, Peru; (4) London finished a ten-storey building carried entirely by load-bearing stone.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-19.mp3" length="5122550" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-19.mp3</guid>
+      <pubDate>Sat, 19 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, September 18, 2026</title>
       <description>Four positive stories to start your morning: (1) Chile becomes the first country in South America validated for eliminating dog-transmitted rabies; (2) Captive-reared saltwater crocodiles released in the Sundarbans settled locally instead of swimming home; (3) Two DNA double helices captured zipping together for the first time; (4) Texas's right-to-repair law takes effect, making it the ninth state to guarantee access to parts and manuals.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-01.mp3</guid>
       <pubDate>Wed, 01 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, June 30, 2026</title>
-      <description>Four positive stories to start your morning: (1) Serena Williams returns to Wimbledon singles; (2) Bepirovirsen functionally cures chronic hepatitis B; (3) Brine-free solar desalination; (4) Solid material upconverts visible sunlight into UV.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Serena Williams returns to Wimbledon singles; (2) Bepirovirsen functionally cures chronic hepatitis B; (3) Brine-free solar desalination; (4) Solid material upconverts visible sunlight into UV.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-06-30.mp3" length="5048572" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-06-30.mp3</guid>
-      <pubDate>Tue, 30 Jun 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
