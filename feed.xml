@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 20 Sep 2026 07:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:47:06 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, September 21, 2026</title>
+      <description>Four positive stories to start your morning: (1) Harvard students win the U.S. James Dyson Award for a sixty-second sideline concussion test; (2) Chinese researchers refine crude oil without boiling it, cutting energy use 91%; (3) Bison return to graze the Chihuahuan Desert after more than a century; (4) Choctaw Nation launches a free language course built from ninety fluent speakers.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Harvard students win the U.S. James Dyson Award for a sixty-second sideline concussion test; (2) Chinese researchers refine crude oil without boiling it, cutting energy use 91%; (3) Bison return to graze the Chihuahuan Desert after more than a century; (4) Choctaw Nation launches a free language course built from ninety fluent speakers.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-21.mp3" length="4814932" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-21.mp3</guid>
+      <pubDate>Mon, 21 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, September 20, 2026</title>
       <description>Four positive stories to start your morning: (1) The FDA cleared the first scan that can tell a returning brain tumor from the scar left by treating it; (2) The shape that solved the "einstein problem" turns out to twist light into a pinwheel; (3) Houston's council voted 100 percent yes to keep ten thousand senior meals a day moving; (4) The first women's pro baseball championship game in seventy-two years went to the Queens, 7–6.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-02.mp3</guid>
       <pubDate>Thu, 02 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:52</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mid Week Lift — Wednesday, July 1, 2026</title>
-      <description>A midweek bonus from The Morning Lift: “Saturn's rotation puzzle solved by JWST” — one of our most-loved stories, re-read for you. Originally from our May 31 episode. Hear a new lift every morning at themorninglift.org.</description>
-      <itunes:summary>A midweek bonus from The Morning Lift: “Saturn's rotation puzzle solved by JWST” — one of our most-loved stories, re-read for you. Originally from our May 31 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-07-01.mp3" length="1508876" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-07-01.mp3</guid>
-      <pubDate>Wed, 01 Jul 2026 11:30:00 -0500</pubDate>
-      <itunes:duration>01:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
