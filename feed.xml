@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 21 Sep 2026 07:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:23:28 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, September 22, 2026</title>
+      <description>Four positive stories to start your morning: (1) A Cambridge review pooled the reading-for-pleasure research and found it trains attention, memory and executive control; (2) A compound gut bacteria make from pomegranates and walnuts switches an inflammation system into a repair system; (3) Connecticut is distributing 28,000 free bus passes to high school students because one principal kept the data; (4) Plastic carrier bags on UK beaches are down 80% since the charge, on a survey that hasn't changed its method in 30 years.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A Cambridge review pooled the reading-for-pleasure research and found it trains attention, memory and executive control; (2) A compound gut bacteria make from pomegranates and walnuts switches an inflammation system into a repair system; (3) Connecticut is distributing 28,000 free bus passes to high school students because one principal kept the data; (4) Plastic carrier bags on UK beaches are down 80% since the charge, on a survey that hasn't changed its method in 30 years.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-22.mp3" length="5348247" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-22.mp3</guid>
+      <pubDate>Tue, 22 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, September 21, 2026</title>
       <description>Four positive stories to start your morning: (1) Harvard students win the U.S. James Dyson Award for a sixty-second sideline concussion test; (2) Chinese researchers refine crude oil without boiling it, cutting energy use 91%; (3) Bison return to graze the Chihuahuan Desert after more than a century; (4) Choctaw Nation launches a free language course built from ninety fluent speakers.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-03.mp3</guid>
       <pubDate>Fri, 03 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, July 2, 2026</title>
-      <description>Four positive stories to start your morning: (1) A hidden museum opens beneath the Lincoln Memorial; (2) The Ocean Cleanup scales river Interceptors in the Philippines; (3) UK new electric cars outsell new petrol cars for the first time; (4) A stem-cell-inspired method grows immune cells at scale.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) A hidden museum opens beneath the Lincoln Memorial; (2) The Ocean Cleanup scales river Interceptors in the Philippines; (3) UK new electric cars outsell new petrol cars for the first time; (4) A stem-cell-inspired method grows immune cells at scale.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-02.mp3" length="4684530" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-02.mp3</guid>
-      <pubDate>Thu, 02 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
