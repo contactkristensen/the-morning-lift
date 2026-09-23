@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 22 Sep 2026 07:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:27:50 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, September 23, 2026</title>
+      <description>Four positive stories to start your morning: (1) First new wild cat species named in over a century; (2) Youngest planet ever confirmed, still forming inside its natal disk; (3) World's largest battery-electric vessel reaches South America; (4) A Texas city built the park its residents actually used.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) First new wild cat species named in over a century; (2) Youngest planet ever confirmed, still forming inside its natal disk; (3) World's largest battery-electric vessel reaches South America; (4) A Texas city built the park its residents actually used.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-23.mp3" length="4973757" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-23.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, September 22, 2026</title>
       <description>Four positive stories to start your morning: (1) A Cambridge review pooled the reading-for-pleasure research and found it trains attention, memory and executive control; (2) A compound gut bacteria make from pomegranates and walnuts switches an inflammation system into a repair system; (3) Connecticut is distributing 28,000 free bus passes to high school students because one principal kept the data; (4) Plastic carrier bags on UK beaches are down 80% since the charge, on a survey that hasn't changed its method in 30 years.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-04.mp3</guid>
       <pubDate>Sat, 04 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, July 3, 2026</title>
-      <description>Four positive stories to start your morning: (1) Melanoma's "immortality" mechanism cracked — TERT + TPP1; (2) England approves therapy that delays type 1 diabetes up to 3 years; (3) Single injection regrows joint cartilage — 15-PGDH block; (4) DC literacy push lifts 17,000 students.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Melanoma's "immortality" mechanism cracked — TERT + TPP1; (2) England approves therapy that delays type 1 diabetes up to 3 years; (3) Single injection regrows joint cartilage — 15-PGDH block; (4) DC literacy push lifts 17,000 students.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-03.mp3" length="4885150" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-03.mp3</guid>
-      <pubDate>Fri, 03 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
