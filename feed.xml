@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 23 Sep 2026 07:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:51:28 +0000</lastBuildDate>
+    <item>
+      <title>Mid Week Lift — Wednesday, September 23, 2026</title>
+      <description>A midweek bonus from The Morning Lift: “Mexico's jaguar population grew about 30% in fourteen years” — one of our most-loved stories, re-read for you. Originally from our May 8 episode. Hear a new lift every morning at themorninglift.org.</description>
+      <itunes:summary>A midweek bonus from The Morning Lift: “Mexico's jaguar population grew about 30% in fourteen years” — one of our most-loved stories, re-read for you. Originally from our May 8 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-09-23.mp3" length="1460393" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-09-23.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 11:30:00 -0500</pubDate>
+      <itunes:duration>01:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Wednesday, September 23, 2026</title>
       <description>Four positive stories to start your morning: (1) First new wild cat species named in over a century; (2) Youngest planet ever confirmed, still forming inside its natal disk; (3) World's largest battery-electric vessel reaches South America; (4) A Texas city built the park its residents actually used.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-05.mp3</guid>
       <pubDate>Sun, 05 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, July 4, 2026</title>
-      <description>Four positive stories to start your morning: (1) Robots fight strawberry-farm pests with UV light instead of pesticides; (2) First synthetic cell to complete a full life cycle — "SpudCell"; (3) Magnetic ripples ("magnons") made to last ~100× longer — toward penny-size quantum computers; (4) Dubuque free community meal returns after six years dark.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Robots fight strawberry-farm pests with UV light instead of pesticides; (2) First synthetic cell to complete a full life cycle — "SpudCell"; (3) Magnetic ripples ("magnons") made to last ~100× longer — toward penny-size quantum computers; (4) Dubuque free community meal returns after six years dark.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-04.mp3" length="5035616" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-04.mp3</guid>
-      <pubDate>Sat, 04 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
