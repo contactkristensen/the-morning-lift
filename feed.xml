@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 23 Sep 2026 16:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:55:09 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Thursday, September 24, 2026</title>
+      <description>Four positive stories to start your morning: (1) The FDA approved the first-ever treatment for Sanfilippo syndrome type A; (2) Photoreceptors can start dying and then come back; (3) Agnes Jebet Ngetich broke the women-only half marathon world record by one second; (4) Miami-Dade added a third district to a countywide free arts education system.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) The FDA approved the first-ever treatment for Sanfilippo syndrome type A; (2) Photoreceptors can start dying and then come back; (3) Agnes Jebet Ngetich broke the women-only half marathon world record by one second; (4) Miami-Dade added a third district to a countywide free arts education system.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-24.mp3" length="5202798" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-24.mp3</guid>
+      <pubDate>Thu, 24 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mid Week Lift — Wednesday, September 23, 2026</title>
       <description>A midweek bonus from The Morning Lift: “Mexico's jaguar population grew about 30% in fourteen years” — one of our most-loved stories, re-read for you. Originally from our May 8 episode. Hear a new lift every morning at themorninglift.org.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-06.mp3</guid>
       <pubDate>Mon, 06 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Sunday, July 5, 2026</title>
-      <description>Four positive stories to start your morning: (1) FDA expands Casgevy gene therapy to children as young as two with sickle cell disease; (2) Anonymous "Dutch School" painting revealed as an early Rembrandt after a decade of restoration; (3) Jordan's Aqaba Marine Reserve recommended for UNESCO World Heritage — a heat-resilient coral refuge; (4) Finnish qualifier Otto Virtanen upsets fourth seed Ben Shelton at Wimbledon.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) FDA expands Casgevy gene therapy to children as young as two with sickle cell disease; (2) Anonymous "Dutch School" painting revealed as an early Rembrandt after a decade of restoration; (3) Jordan's Aqaba Marine Reserve recommended for UNESCO World Heritage — a heat-resilient coral refuge; (4) Finnish qualifier Otto Virtanen upsets fourth seed Ben Shelton at Wimbledon.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-05.mp3" length="5309379" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-05.mp3</guid>
-      <pubDate>Sun, 05 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
