@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 24 Sep 2026 07:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:16:20 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Friday, September 25, 2026</title>
+      <description>Four positive stories to start your morning: (1) A French startup dyes fabric with static electricity instead of boiling water; (2) A $250 million commitment targets the veterinary care gap for 50 million pets; (3) A Burgundy village reopens the last business on its street; (4) Minnesota's 165-mile Mesabi Trail is finished after three decades.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A French startup dyes fabric with static electricity instead of boiling water; (2) A $250 million commitment targets the veterinary care gap for 50 million pets; (3) A Burgundy village reopens the last business on its street; (4) Minnesota's 165-mile Mesabi Trail is finished after three decades.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-25.mp3" length="5071976" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-25.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Thursday, September 24, 2026</title>
       <description>Four positive stories to start your morning: (1) The FDA approved the first-ever treatment for Sanfilippo syndrome type A; (2) Photoreceptors can start dying and then come back; (3) Agnes Jebet Ngetich broke the women-only half marathon world record by one second; (4) Miami-Dade added a third district to a countywide free arts education system.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-07.mp3</guid>
       <pubDate>Tue, 07 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Monday, July 6, 2026</title>
-      <description>Four positive stories to start your morning: (1) A 22-year-old's 3D-printed dentures; (2) The marathon-running nun's food pantry; (3) Ann Patchett wins the Library of Congress Prize; (4) Low-inflammatory diet linked to lower dementia risk.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) A 22-year-old's 3D-printed dentures; (2) The marathon-running nun's food pantry; (3) Ann Patchett wins the Library of Congress Prize; (4) Low-inflammatory diet linked to lower dementia risk.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-06.mp3" length="4754328" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-06.mp3</guid>
-      <pubDate>Mon, 06 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
