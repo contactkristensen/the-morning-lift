@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 25 Sep 2026 07:16:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:20:45 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Saturday, September 26, 2026</title>
+      <description>Four positive stories to start your morning: (1) New York City is rebuilding Park Avenue into the park it used to be; (2) Wisconsin prisoners are raising monarch butterflies, and the program just had its best year; (3) A blind 54-year-old chimpanzee has his sight back after a sanctuary's first cataract surgery; (4) A family's plastic-shredding workshop in California is now furnishing classrooms in Malawi.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) New York City is rebuilding Park Avenue into the park it used to be; (2) Wisconsin prisoners are raising monarch butterflies, and the program just had its best year; (3) A blind 54-year-old chimpanzee has his sight back after a sanctuary's first cataract surgery; (4) A family's plastic-shredding workshop in California is now furnishing classrooms in Malawi.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-26.mp3" length="5450229" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-26.mp3</guid>
+      <pubDate>Sat, 26 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Friday, September 25, 2026</title>
       <description>Four positive stories to start your morning: (1) A French startup dyes fabric with static electricity instead of boiling water; (2) A $250 million commitment targets the veterinary care gap for 50 million pets; (3) A Burgundy village reopens the last business on its street; (4) Minnesota's 165-mile Mesabi Trail is finished after three decades.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-08.mp3</guid>
       <pubDate>Wed, 08 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Tuesday, July 7, 2026</title>
-      <description>Four positive stories to start your morning: (1) Perovskite-silicon solar cell hits a certified 34.82% efficiency; (2) Quentin Blake Centre for Illustration opens in London; (3) Tour de France 2026 opens with a Grand Départ in Barcelona; (4) Kākāpō have their biggest breeding season on record.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Perovskite-silicon solar cell hits a certified 34.82% efficiency; (2) Quentin Blake Centre for Illustration opens in London; (3) Tour de France 2026 opens with a Grand Départ in Barcelona; (4) Kākāpō have their biggest breeding season on record.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-07.mp3" length="4800304" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-07.mp3</guid>
-      <pubDate>Tue, 07 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
