@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 26 Sep 2026 07:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 07:13:12 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Sunday, September 27, 2026</title>
+      <description>Four positive stories to start your morning: (1) Stem cell transplants regenerate stroke-damaged brain tissue and restore movement in mice; (2) A $15-a-kilo chemical bath brings old EV batteries back to 95 percent capacity; (3) Australia's power grid hits a record 80.5 percent renewables on an ordinary Saturday; (4) A $30 estate-sale painting turns out to be a lost $250,000 work by Gertrude Abercrombie.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Stem cell transplants regenerate stroke-damaged brain tissue and restore movement in mice; (2) A $15-a-kilo chemical bath brings old EV batteries back to 95 percent capacity; (3) Australia's power grid hits a record 80.5 percent renewables on an ordinary Saturday; (4) A $30 estate-sale painting turns out to be a lost $250,000 work by Gertrude Abercrombie.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-27.mp3" length="4970830" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-27.mp3</guid>
+      <pubDate>Sun, 27 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Saturday, September 26, 2026</title>
       <description>Four positive stories to start your morning: (1) New York City is rebuilding Park Avenue into the park it used to be; (2) Wisconsin prisoners are raising monarch butterflies, and the program just had its best year; (3) A blind 54-year-old chimpanzee has his sight back after a sanctuary's first cataract surgery; (4) A family's plastic-shredding workshop in California is now furnishing classrooms in Malawi.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-07-08.mp3</guid>
       <pubDate>Wed, 08 Jul 2026 11:30:00 -0500</pubDate>
       <itunes:duration>01:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Wednesday, July 8, 2026</title>
-      <description>Four positive stories to start your morning: (1) Paris reopens the Seine to public swimming; (2) Lost Leonora Carrington painting "Villa Pilar" goes on public view; (3) Astronomers find DF9, a third dark-matter-free galaxy on a collision trail; (4) Duke-NUS identifies DEAF1, the gene "switch" behind exercise reversing muscle aging.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Paris reopens the Seine to public swimming; (2) Lost Leonora Carrington painting "Villa Pilar" goes on public view; (3) Astronomers find DF9, a third dark-matter-free galaxy on a collision trail; (4) Duke-NUS identifies DEAF1, the gene "switch" behind exercise reversing muscle aging.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-08.mp3" length="4815769" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-08.mp3</guid>
-      <pubDate>Wed, 08 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
