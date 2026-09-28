@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 27 Sep 2026 07:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 07:17:21 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Monday, September 28, 2026</title>
+      <description>Four positive stories to start your morning: (1) New urine-and-vaginal-fluid test could rule out womb cancer without a biopsy; (2) Coalition of 180+ groups is restoring 4.4 million acres of Brazil's Cerrado savanna; (3) Six lost pages of a 500-year-old manuscript reunited across two archives; (4) Teens set a Guinness World Record recycling 22,000 sports balls in a day.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) New urine-and-vaginal-fluid test could rule out womb cancer without a biopsy; (2) Coalition of 180+ groups is restoring 4.4 million acres of Brazil's Cerrado savanna; (3) Six lost pages of a 500-year-old manuscript reunited across two archives; (4) Teens set a Guinness World Record recycling 22,000 sports balls in a day.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-28.mp3" length="4573351" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-28.mp3</guid>
+      <pubDate>Mon, 28 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>04:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Sunday, September 27, 2026</title>
       <description>Four positive stories to start your morning: (1) Stem cell transplants regenerate stroke-damaged brain tissue and restore movement in mice; (2) A $15-a-kilo chemical bath brings old EV batteries back to 95 percent capacity; (3) Australia's power grid hits a record 80.5 percent renewables on an ordinary Saturday; (4) A $30 estate-sale painting turns out to be a lost $250,000 work by Gertrude Abercrombie.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-09.mp3</guid>
       <pubDate>Thu, 09 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mid Week Lift — Wednesday, July 8, 2026</title>
-      <description>A midweek bonus from The Morning Lift: “Saturn's rotation puzzle solved by JWST (Science/Planetary)” — one of our most-loved stories, re-read for you. Originally from our May 31 episode. Hear a new lift every morning at themorninglift.org.</description>
-      <itunes:summary>A midweek bonus from The Morning Lift: “Saturn's rotation puzzle solved by JWST (Science/Planetary)” — one of our most-loved stories, re-read for you. Originally from our May 31 episode. Hear a new lift every morning at themorninglift.org.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_MidWeek_2026-07-08.mp3" length="1458721" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_MidWeek_2026-07-08.mp3</guid>
-      <pubDate>Wed, 08 Jul 2026 11:30:00 -0500</pubDate>
-      <itunes:duration>01:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
