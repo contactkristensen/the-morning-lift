@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 28 Sep 2026 07:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 07:40:27 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Tuesday, September 29, 2026</title>
+      <description>Four positive stories to start your morning: (1) Seventeen-year-old swimmer breaks 200m breaststroke world record at Asian Games; (2) Minimally invasive procedure shows lasting pain relief for knee osteoarthritis without surgery; (3) $2.1 million grant funds next-generation coral reef restoration techniques; (4) Fifteen looted Greek antiquities return home to Crete after decades.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Seventeen-year-old swimmer breaks 200m breaststroke world record at Asian Games; (2) Minimally invasive procedure shows lasting pain relief for knee osteoarthritis without surgery; (3) $2.1 million grant funds next-generation coral reef restoration techniques; (4) Fifteen looted Greek antiquities return home to Crete after decades.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-29.mp3" length="5309378" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-29.mp3</guid>
+      <pubDate>Tue, 29 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Monday, September 28, 2026</title>
       <description>Four positive stories to start your morning: (1) New urine-and-vaginal-fluid test could rule out womb cancer without a biopsy; (2) Coalition of 180+ groups is restoring 4.4 million acres of Brazil's Cerrado savanna; (3) Six lost pages of a 500-year-old manuscript reunited across two archives; (4) Teens set a Guinness World Record recycling 22,000 sports balls in a day.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-10.mp3</guid>
       <pubDate>Fri, 10 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Thursday, July 9, 2026</title>
-      <description>Four positive stories to start your morning: (1) Kelsey Pfendler — first American woman to row solo from California to Hawaii; (2) Dolly Parton musical sets Broadway opening — on her 81st birthday; (3) Montana Bar Fairies — gift cards instead of tickets for people who didn't drive drunk; (4) New walking shark species confirmed off Papua New Guinea.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Kelsey Pfendler — first American woman to row solo from California to Hawaii; (2) Dolly Parton musical sets Broadway opening — on her 81st birthday; (3) Montana Bar Fairies — gift cards instead of tickets for people who didn't drive drunk; (4) New walking shark species confirmed off Papua New Guinea.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-09.mp3" length="4716713" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-09.mp3</guid>
-      <pubDate>Thu, 09 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
