@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 29 Sep 2026 07:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:59:46 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Wednesday, September 30, 2026</title>
+      <description>Four positive stories to start your morning: (1) Tigst Assefa Runs the Third-Fastest Women's Marathon Ever, Guye Adola Repeats as Men's Champion; (2) Quantum Computer Simulates How Matter Was Born From Stored Energy, Recreating Big Bang Physics; (3) CRISPR-Edited Donor Stem Cells Let Doctors Attack Leukemia Without Destroying the Healthy Cells Patients Need; (4) Lead in Ancient Ink Could Finally Unlock the Burned Herculaneum Scrolls.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) Tigst Assefa Runs the Third-Fastest Women's Marathon Ever, Guye Adola Repeats as Men's Champion; (2) Quantum Computer Simulates How Matter Was Born From Stored Energy, Recreating Big Bang Physics; (3) CRISPR-Edited Donor Stem Cells Let Doctors Attack Leukemia Without Destroying the Healthy Cells Patients Need; (4) Lead in Ancient Ink Could Finally Unlock the Burned Herculaneum Scrolls.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-09-30.mp3" length="5117117" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-09-30.mp3</guid>
+      <pubDate>Wed, 30 Sep 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Tuesday, September 29, 2026</title>
       <description>Four positive stories to start your morning: (1) Seventeen-year-old swimmer breaks 200m breaststroke world record at Asian Games; (2) Minimally invasive procedure shows lasting pain relief for knee osteoarthritis without surgery; (3) $2.1 million grant funds next-generation coral reef restoration techniques; (4) Fifteen looted Greek antiquities return home to Crete after decades.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-11.mp3</guid>
       <pubDate>Sat, 11 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>04:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Friday, July 10, 2026</title>
-      <description>Four positive stories to start your morning: (1) A silicon chip that writes DNA in water; (2) The ocean has been braking global drought for over a century; (3) AI predicted two new superconductors before they were made; (4) A British wildcard into his first Wimbledon semifinal.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) A silicon chip that writes DNA in water; (2) The ocean has been braking global drought for over a century; (3) AI predicted two new superconductors before they were made; (4) A British wildcard into his first Wimbledon semifinal.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-10.mp3" length="4734684" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-10.mp3</guid>
-      <pubDate>Fri, 10 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
