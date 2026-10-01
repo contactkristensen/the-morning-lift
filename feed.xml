@@ -16,7 +16,17 @@
       <itunes:name>Thomas Kristensen</itunes:name>
       <itunes:email>contact.kristensen@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 30 Sep 2026 07:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:52:53 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Lift — Thursday, October 1, 2026</title>
+      <description>Four positive stories to start your morning: (1) A single CRISPR shot cut "bad" cholesterol in half — and it's still working a year later — Health/Genetic Medicine; (2) Sri Lanka is teaching train tracks to feel an elephant coming; (3) One bird nobody could name ended up protecting 123,000 acres; (4) Phil and Penny Knight just bet $1 billion on Oregon's next generation of engineers.</description>
+      <itunes:summary>Four positive stories to start your morning: (1) A single CRISPR shot cut "bad" cholesterol in half — and it's still working a year later — Health/Genetic Medicine; (2) Sri Lanka is teaching train tracks to feel an elephant coming; (3) One bird nobody could name ended up protecting 123,000 acres; (4) Phil and Penny Knight just bet $1 billion on Oregon's next generation of engineers.</itunes:summary>
+      <enclosure url="https://themorninglift.org/TML_2026-10-01.mp3" length="5331947" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://themorninglift.org/TML_2026-10-01.mp3</guid>
+      <pubDate>Thu, 01 Oct 2026 02:00:00 -0500</pubDate>
+      <itunes:duration>05:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Morning Lift — Wednesday, September 30, 2026</title>
       <description>Four positive stories to start your morning: (1) Tigst Assefa Runs the Third-Fastest Women's Marathon Ever, Guye Adola Repeats as Men's Champion; (2) Quantum Computer Simulates How Matter Was Born From Stored Energy, Recreating Big Bang Physics; (3) CRISPR-Edited Donor Stem Cells Let Doctors Attack Leukemia Without Destroying the Healthy Cells Patients Need; (4) Lead in Ancient Ink Could Finally Unlock the Burned Herculaneum Scrolls.</description>
@@ -905,16 +915,6 @@
       <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-12.mp3</guid>
       <pubDate>Sun, 12 Jul 2026 02:00:00 -0500</pubDate>
       <itunes:duration>05:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Morning Lift — Saturday, July 11, 2026</title>
-      <description>Four positive stories to start your morning: (1) Europe's air is measurably cleaner than a decade ago; (2) 800 million people have gained electricity access since 2010; (3) Britain's Cerne Abbas Giant is being re-chalked; (4) 80+ volunteers restored eight Scranton seniors' homes in a day.</description>
-      <itunes:summary>Four positive stories to start your morning: (1) Europe's air is measurably cleaner than a decade ago; (2) 800 million people have gained electricity access since 2010; (3) Britain's Cerne Abbas Giant is being re-chalked; (4) 80+ volunteers restored eight Scranton seniors' homes in a day.</itunes:summary>
-      <enclosure url="https://themorninglift.org/TML_2026-07-11.mp3" length="4249852" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://themorninglift.org/TML_2026-07-11.mp3</guid>
-      <pubDate>Sat, 11 Jul 2026 02:00:00 -0500</pubDate>
-      <itunes:duration>04:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
